@@ -1,0 +1,167 @@
+﻿topic,gx_class,src,n_total,rater,memo,mine
+Silicon Carbide Semiconductor Technologies,enabling,claude_draft,594,enabling,전력변환·전력전자 소자의 기반 소재로 GX 지원 기술(enabling)로 판단.,enabling
+GaN-based semiconductor devices and materials,enabling,claude_draft,589,enabling,전력전자·고효율 변환에 활용될 수 있어 enabling으로 판단.,enabling
+Advancements in Battery Materials,core,claude_draft,453,core,,core
+Fuel Cells and Related Materials,core,claude_draft,402,core,,core
+Advanced Battery Materials and Technologies,core,claude_draft,401,core,,core
+Building Energy and Comfort Optimization,enabling,claude_draft,344,enabling,건물 에너지 수요·효율 최적화에 직접 기여하는 지원 기술.,enabling
+Advanced Combustion Engine Technologies,legacy,claude_draft,341,legacy,,legacy
+Catalytic Processes in Materials Science,other,claude_draft,313,other,촉매의 목적 반응이 특정되지 않아 CO2 환원·수소 생산과 일반 화학 촉매를 구분할 수 없음.,other
+Polymer crystallization and properties,non_gx,claude_draft,311,non_gx,,non_gx
+Electric Motor Design and Analysis,enabling,claude_draft,289,enabling,,enabling
+Electrocatalysts for Energy Conversion,core,claude_draft,263,core,,core
+Advancements in Solid Oxide Fuel Cells,core,claude_draft,255,core,,core
+High voltage insulation and dielectric phenomena,enabling,claude_draft,255,enabling,,enabling
+Vehicle Dynamics and Control Systems,other,claude_draft,242,other,전기차 제어에도 쓰이지만 내연기관 차량 전반에도 적용 가능해 제목만으로 GX 기여를 특정하기 어려움.,other
+Graphene research and applications,non_gx,claude_draft,198,non_gx,,non_gx
+Mechanical Behavior of Composites,non_gx,claude_draft,190,non_gx,,non_gx
+Hydrogen Storage and Materials,core,claude_draft,161,core,,core
+Membrane Separation Technologies,other,claude_draft,160,other,수소·탄소 포집 등에 활용될 수 있으나 구체적인 분리 대상과 목적이 제시되지 않음.,other
+Carbon Nanotubes in Composites,non_gx,claude_draft,158,non_gx,,non_gx
+Electric and Hybrid Vehicle Technologies,core,claude_draft,153,core,,core
+Mesoporous Materials and Catalysis,other,claude_draft,142,other,촉매 응용 목적이 불명확하며 GX 관련 반응인지 판단하기 어려움.,other
+Power System Optimization and Stability,enabling,claude_draft,138,enabling,,enabling
+Advanced Photocatalysis Techniques,other,claude_draft,136,other,태양광 연료·CO2 전환 등 GX 목적일 수도 있으나 제목만으로 연구 목적을 특정할 수 없음.,other
+Heat Transfer and Boiling Studies,other,claude_draft,130,other,열효율 향상에 쓰일 수 있지만 일반 열전달 연구와 GX 적용 연구를 구분하기 어려움.,other
+Advanced DC-DC Converters,enabling,claude_draft,130,enabling,,enabling
+Advanced Thermoelectric Materials and Devices,enabling,claude_draft,128,enabling,,enabling
+TiO2 Photocatalysis and Solar Cells,core,claude_draft,128,core,,core
+Advanced Battery Technologies Research,core,claude_draft,123,core,,core
+Vehicle Noise and Vibration Control,non_gx,claude_draft,122,non_gx,,non_gx
+Fiber-reinforced polymer composites,non_gx,claude_draft,115,non_gx,,non_gx
+Polymer Science and Applications,non_gx,claude_draft,114,non_gx,,non_gx
+Organic Electronics and Photovoltaics,core,claude_draft,101,core,,core
+Advanced ceramic materials synthesis,non_gx,claude_draft,100,non_gx,,non_gx
+Organic Light-Emitting Diodes Research,other,claude_draft,100,other,고효율 조명·디스플레이와 연관될 수 있으나 GX 직접 기여 여부가 불명확함.,other
+Advanced Cellulose Research Studies,non_gx,claude_draft,99,non_gx,,non_gx
+Refrigeration and Air Conditioning Technologies,enabling,claude_draft,92,enabling,,enabling
+Microgrid Control and Optimization,enabling,claude_draft,92,enabling,,enabling
+Advanced battery technologies research,core,claude_draft,90,core,,core
+Silicon and Solar Cell Technologies,core,claude_draft,84,core,,core
+Wireless Power Transfer Systems,enabling,claude_draft,83,enabling,,enabling
+Organometallic Complex Synthesis and Catalysis,non_gx,claude_draft,79,other,,non_gx
+Power Systems and Renewable Energy,enabling,claude_draft,77,enabling,,enabling
+Multilevel Inverters and Converters,enabling,claude_draft,76,enabling,,enabling
+Electric Power System Optimization,enabling,claude_draft,74,enabling,,enabling
+Luminescence Properties of Advanced Materials,other,claude_draft,71,other,,other
+Polymer Nanocomposites and Properties,non_gx,claude_draft,69,non_gx,,non_gx
+biodegradable polymer synthesis and properties,other,claude_draft,69,other,자원순환·지속가능 소재와 연관될 수 있으나 GX 목표에 대한 직접 기여가 제목만으로 확인되지 않음.,other
+solar cell performance optimization,core,claude_draft,65,core,,core
+Catalysts for Methane Reforming,core,claude_draft,64,other,수소 생산과 관련되지만 메탄 개질은 화석 기반일 수 있어 저탄소 수소인지 불명확함.,core
+Heat Transfer and Optimization,other,claude_draft,63,other,에너지 효율 지원 가능성은 있으나 구체적 시스템·적용 목적이 드러나지 않음.,other
+CO2 Reduction Techniques and Catalysts,core,claude_draft,63,core,,core
+Thermal properties of materials,non_gx,claude_draft,62,other,에너지 효율 소재일 수도 있으나 GX 목적이 명시되지 않은 일반 물성 연구로 판단하기 어려움.,non_gx
+Engine and Fuel Emissions,legacy,claude_draft,60,legacy,,legacy
+Sensorless Control of Electric Motors,enabling,claude_draft,59,enabling,,enabling
+Smart Grid Energy Management,enabling,claude_draft,59,enabling,전력망 운영·에너지 관리로 재생에너지 통합을 지원함(enabling).,enabling
+Synthesis and properties of polymers,non_gx,claude_draft,58,non_gx,,non_gx
+Electric Vehicles and Infrastructure,core,claude_draft,56,core,,core
+Boron and Carbon Nanomaterials Research,non_gx,claude_draft,55,non_gx,,non_gx
+High-Voltage Power Transmission Systems,enabling,claude_draft,52,enabling,,enabling
+Advanced Polymer Synthesis and Characterization,non_gx,claude_draft,49,non_gx,,non_gx
+Advanced Thermodynamic Systems and Engines,legacy,claude_draft,49,legacy,,legacy
+Supercapacitor Materials and Fabrication,core,claude_draft,49,core,,core
+Fluid Dynamics and Heat Transfer,non_gx,claude_draft,46,other,,non_gx
+Solar Radiation and Photovoltaics,core,claude_draft,46,core,,core
+Lipid Membrane Structure and Behavior,non_gx,claude_draft,46,non_gx,,non_gx
+Wind Turbine Control Systems,core,claude_draft,44,core,풍력 발전을 제어하는 기술로 재생에너지 생산에 직접 연결됨(core).,core
+Power Systems Fault Detection,enabling,claude_draft,43,enabling,전력망의 안정적 운영을 지원하지만 GX 목적과의 직접 연결은 간접적임(enabling).,enabling
+Polymer composites and self-healing,non_gx,claude_draft,43,non_gx,,non_gx
+Perovskite Materials and Applications,core,claude_draft,42,core,,core
+Block Copolymer Self-Assembly,non_gx,claude_draft,42,non_gx,,non_gx
+Photovoltaic System Optimization Techniques,core,claude_draft,40,core,,core
+Geothermal Energy Systems and Applications,core,claude_draft,39,core,,core
+Membrane Separation and Gas Transport,other,claude_draft,39,other,,other
+Zeolite Catalysis and Synthesis,non_gx,claude_draft,38,other,,non_gx
+Adsorption and Cooling Systems,enabling,claude_draft,38,other,,enabling
+Polymer Surface Interaction Studies,non_gx,claude_draft,38,non_gx,,non_gx
+Conducting polymers and applications,other,claude_draft,38,other,전도성 고분자는 배터리·태양전지에도 쓰이지만 응용 분야가 특정되지 않음.,other
+Extraction and Separation Processes,non_gx,claude_draft,37,non_gx,,non_gx
+Quantum Dots Synthesis And Properties,other,claude_draft,36,other,태양전지·광전변환 응용 가능성이 있으나 주제명만으로 GX 목적을 확정하기 어려움.,other
+Cellular and Composite Structures,non_gx,claude_draft,35,non_gx,,non_gx
+Composite Material Mechanics,non_gx,rule_provisional,33,non_gx,,non_gx
+Enzyme Catalysis and Immobilization,non_gx,rule_provisional,33,non_gx,,non_gx
+Combustion and flame dynamics,legacy,rule_provisional,32,legacy,,legacy
+Thermal Radiation and Cooling Technologies,enabling,rule_provisional,30,enabling,,enabling
+Electric Power Systems and Control,enabling,rule_provisional,30,enabling,전력 시스템의 제어·운영을 지원하는 기반 기술(enabling).,enabling
+Nuclear Engineering Thermal-Hydraulics,other,claude_patch,29,other,원자력은 저탄소 전력과 관련될 수 있지만 해당 주제가 발전·GX에 직접 연결되는지 불명확함.,other
+Gold and Silver Nanoparticles Synthesis and Applications,non_gx,claude_patch,28,non_gx,,non_gx
+Silicon Nanostructures and Photoluminescence,other,claude_patch,27,other,태양전지와 관련될 가능성은 있으나 광발광 나노구조의 목적이 명시되지 않음.,other
+Advanced materials and composites,non_gx,rule_provisional,26,non_gx,,non_gx
+Vehicle emissions and performance,legacy,claude_patch,25,legacy,,legacy
+Nanoparticle-Based Drug Delivery,non_gx,claude_patch,25,non_gx,,non_gx
+Composite Structure Analysis and Optimization,non_gx,rule_provisional,25,non_gx,,non_gx
+Smart Grid and Power Systems,enabling,rule_provisional,24,enabling,,enabling
+Polymer Science and PVC,non_gx,rule_provisional,24,non_gx,,non_gx
+bioluminescence and chemiluminescence research,non_gx,claude_patch,22,non_gx,,non_gx
+Aluminum Alloys Composites Properties,non_gx,rule_provisional,22,non_gx,,non_gx
+Carbon dioxide utilization in catalysis,core,rule_provisional,19,core,CO2 활용을 명시하므로 탄소 전환 기술(core)로 판단.,core
+Catalysis and Oxidation Reactions,other,claude_patch,19,other,목적 반응이 특정되지 않아 GX 촉매인지 일반 화학 촉매인지 구분하기 어려움.,other
+Heat and Mass Transfer in Porous Media,other,claude_patch,19,other,에너지 시스템 응용 가능성은 있으나 GX 목적이 제목에 나타나지 않음.,other
+Coal Combustion and Slurry Processing,legacy,rule_provisional,18,legacy,,legacy
+Urban Heat Island Mitigation,other,claude_patch,17,other,기후 적응·도시 열환경 개선에 가깝고 탄소 감축·에너지 전환 기여가 직접적으로 드러나지 않음.,other
+Nanoparticles: synthesis and applications,non_gx,claude_patch,17,non_gx,,non_gx
+Power System Reliability and Maintenance,enabling,rule_provisional,17,enabling,전력 인프라 신뢰성·유지보수를 지원하는 기술(enabling).,enabling
+Characterization and Applications of Magnetic Nanoparticles,non_gx,claude_patch,16,non_gx,,non_gx
+Thermal Expansion and Ionic Conductivity,other,claude_patch,15,other,고체전해질·배터리 소재와 관련될 수 있으나 주제명만으로 배터리 목적을 확정할 수 없음.,other
+Islanding Detection in Power Systems,enabling,rule_provisional,15,enabling,분산전원·마이크로그리드의 안전한 운영을 지원하는 기술(enabling).,enabling
+Surface Chemistry and Catalysis,other,claude_patch,15,other,촉매 반응과 목적이 특정되지 않아 GX 관련성을 판단하기 어려움.,other
+Photopolymerization techniques and applications,non_gx,rule_provisional,15,non_gx,,non_gx
+Heat Transfer Mechanisms,other,claude_patch,14,other,,other
+Underwater Vehicles and Communication Systems,non_gx,claude_patch,14,non_gx,,non_gx
+Electrical and Thermal Properties of Materials,unreviewed,rule_provisional,14,other,,other
+Natural Fiber Reinforced Composites,non_gx,rule_provisional,13,non_gx,,non_gx
+Microbial Fuel Cells and Bioremediation,core,rule_provisional,13,core,,core
+Phosphorus and nutrient management,unreviewed,rule_provisional,13,other,자원·환경 관리 주제이나 탄소 감축·에너지 전환과의 직접 연결이 불명확함.,other
+Photovoltaic Systems and Sustainability,core,rule_provisional,12,core,,core
+Soil Mechanics and Vehicle Dynamics,unreviewed,rule_provisional,12,non_gx,,other
+Frequency Control in Power Systems,enabling,rule_provisional,12,enabling,전력계통 안정화와 재생에너지 통합을 지원하는 기술(enabling).,enabling
+Polymer Foaming and Composites,non_gx,rule_provisional,11,non_gx,,non_gx
+Luminescence and Fluorescent Materials,unreviewed,rule_provisional,11,other,에너지 효율 조명·광전 소자에 쓰일 수 있으나 구체적 응용이 제시되지 않음.,other
+Catalysis for Biomass Conversion,core,rule_provisional,11,core,,core
+Power Systems and Technologies,enabling,rule_provisional,11,enabling,전력 시스템 일반 주제로 구체적 목적이 제한적이나 GX 전력 인프라와의 연관성을 고려해 enabling으로 분류.,enabling
+Nanofluid Flow and Heat Transfer,unreviewed,rule_provisional,10,other,열전달 효율 향상에 쓰일 수 있지만 GX 적용처가 특정되지 않음.,other
+Thermodynamic and Exergetic Analyses of Power and Cooling Systems,enabling,rule_provisional,10,enabling,,enabling
+Vehicle Routing Optimization Methods,unreviewed,rule_provisional,10,non_gx,,other
+Induction Heating and Inverter Technology,enabling,rule_provisional,10,enabling,,enabling
+Laser-Ablation Synthesis of Nanoparticles,non_gx,rule_provisional,10,non_gx,,non_gx
+Solar Thermal and Photovoltaic Systems,core,rule_provisional,10,core,,core
+Catalysis and Hydrodesulfurization Studies,unreviewed,rule_provisional,10,legacy,,other
+Nanocomposite Films for Food Packaging,non_gx,rule_provisional,9,non_gx,,non_gx
+Dielectric properties of ceramics,non_gx,rule_provisional,9,non_gx,,non_gx
+Polymer Synthesis and Characterization,non_gx,rule_provisional,9,non_gx,,non_gx
+Combustion and Detonation Processes,legacy,rule_provisional,9,legacy,,legacy
+Microwave Dielectric Ceramics Synthesis,non_gx,rule_provisional,8,non_gx,,non_gx
+Technical Engine Diagnostics and Monitoring,legacy,rule_provisional,8,legacy,,legacy
+Structural Analysis of Composite Materials,non_gx,rule_provisional,8,non_gx,,non_gx
+Asymmetric Synthesis and Catalysis,unreviewed,rule_provisional,7,other,일반 유기합성 촉매로 보이며 GX 목적 반응이 명시되지 않음.,other
+Carbon and Quantum Dots Applications,unreviewed,rule_provisional,7,non_gx,,other
+Mechanical and Thermal Properties Analysis,unreviewed,rule_provisional,6,other,,other
+Smart Grid Security and Resilience,enabling,rule_provisional,6,enabling,,enabling
+Heat shock proteins research,non_gx,rule_provisional,6,non_gx,,non_gx
+Polymer Nanocomposite Synthesis and Irradiation,non_gx,rule_provisional,6,non_gx,,non_gx
+Hygrothermal properties of building materials,unreviewed,rule_provisional,6,enabling,,other
+Renewable energy and sustainable power systems,enabling,rule_provisional,6,core,재생에너지 및 지속가능 전력 시스템을 명시하므로 전환을 지원하는 기술(enabling).,enabling
+Heat Transfer and Numerical Methods,unreviewed,rule_provisional,5,other,"일반 해석 방법론으로, 구체적인 GX 시스템이나 목적이 제시되지 않음.",other
+Aerogels and thermal insulation,enabling,rule_provisional,5,enabling,,enabling
+Asymmetric Hydrogenation and Catalysis,core,rule_provisional,5,other,화학합성의 수소화 반응으로 보이며 에너지 전환·수소 에너지 기술과는 구분됨.,core
+Solar and Space Plasma Dynamics,core,rule_provisional,4,other,태양 관련 주제이지만 태양광 발전·에너지 생산보다는 우주 플라스마 연구로 보임.,core
+Heat transfer and supercritical fluids,unreviewed,rule_provisional,4,other,에너지 시스템 응용 가능성은 있으나 구체적 GX 목적이 불명확함.,other
+Metal Extraction and Bioleaching,unreviewed,rule_provisional,4,other,자원 회수와 관련될 수 있으나 GX 목표에 대한 직접 기여가 제목만으로 확인되지 않음.,other
+Dendrimers and Hyperbranched Polymers,non_gx,rule_provisional,4,non_gx,,non_gx
+nanoparticles nucleation surface interactions,unreviewed,rule_provisional,4,other,"일반 나노소재 연구로, GX 관련 적용 목적이 특정되지 않음.",other
+Thermal Analysis in Power Transmission,enabling,rule_provisional,4,enabling,전력 송전 설비의 열 분석·신뢰성 향상을 지원하는 기술(enabling).,enabling
+Thermal and Kinetic Analysis,unreviewed,rule_provisional,4,other,일반 분석 주제로 GX 적용 분야가 명시되지 않음.,other
+Collagen: Extraction and Characterization,unreviewed,rule_provisional,3,non_gx,,other
+Biopolymer Synthesis and Applications,non_gx,rule_provisional,3,non_gx,,non_gx
+Radiative Heat Transfer Studies,unreviewed,rule_provisional,3,other,열효율 개선에 활용될 수 있으나 구체적인 GX 적용 시스템이 불명확함.,other
+Solar Energy Systems and Technologies,core,rule_provisional,3,core,태양에너지 시스템을 명시하므로 재생에너지 생산(core).,core
+Polymer-Based Agricultural Enhancements,non_gx,rule_provisional,2,non_gx,,non_gx
+Automated Road and Building Extraction,unreviewed,rule_provisional,2,non_gx,,other
+IoT and GPS-based Vehicle Safety Systems,unreviewed,rule_provisional,2,non_gx,,other
+Membrane-based Ion Separation Techniques,unreviewed,rule_provisional,2,other,배터리·수소 기술에 활용될 수 있으나 대상·목적이 특정되지 않음.,other
+Solar-Powered Water Purification Methods,core,rule_provisional,2,core,태양에너지를 활용하는 정수 기술로 재생에너지의 직접 활용(core).,core
+Vehicle License Plate Recognition,unreviewed,rule_provisional,2,non_gx,,other
+Energetic Materials and Combustion,legacy,rule_provisional,1,legacy,,legacy
+Organophosphorus compounds synthesis,unreviewed,rule_provisional,1,other,일반 화학 합성으로 GX 목표와의 직접 관련성이 확인되지 않음.,other
+Graphene and Nanomaterials Applications,non_gx,rule_provisional,1,non_gx,,non_gx

@@ -1,0 +1,85 @@
+{
+  "created": "2026-11-01T01:40:08",
+  "hypotheses": {
+    "H1": {
+      "text": "보류 표본에서 신규 기업 저자 중 단독 참여 비중은 마지막 블록이 이전 두 블록보다 낮다",
+      "stat": "기업 FE OLS(기업 군집)의 late 계수(pp)",
+      "rule": "95% 구간 상한 < 0"
+    },
+    "H2": {
+      "text": "해외 대학 포함 논문에서 외부(비기업) 마지막 저자 비중의 첫→마지막 블록 증가가 제1저자 기준 증가보다 크다",
+      "stat": "기업 재표집 부트스트랩 95% 구간",
+      "rule": "마지막 저자 변화 구간 하한 > 0 이고 (마지막-제1) 차이 구간 하한 > 0"
+    },
+    "H3": {
+      "text": "신규 파트너 포함 논문의 새 주제 진입 오즈가 더 높다",
+      "stat": "로짓 OR(블록 더미, ln 논문수 통제, 기업 군집), 진입=기업군x주제 첫 등장 블록의 논문",
+      "rule": "95% 구간 하한 > 1"
+    },
+    "H4": {
+      "text": "보류 표본의 core 논문 집중은 코호트만큼 상승하지 않는다",
+      "stat": "HHI(마지막-첫 블록) 변화, 기업 재표집 95% 구간",
+      "rule": "95% 구간 상한 < 0.198 (코호트 점추정)"
+    },
+    "H5": {
+      "text": "해외 대학 포함 논문 비중은 첫→마지막 블록에서 증가한다",
+      "stat": "기업 FE LPM(기업 군집) post 계수",
+      "rule": "95% 구간 하한 > 0"
+    }
+  },
+  "thresholds": {
+    "THR4": 0.198
+  },
+  "holdout_groups": [
+    "Sumitomo Metal Mining",
+    "Tohoku Electric Power Co., Inc.",
+    "Chiyoda Corporation",
+    "Nissan Chemical Corporation",
+    "Aisin",
+    "Mitsui Engineering and Shipbuilding",
+    "Kanadevia",
+    "Yamaha Motor Co., Ltd.",
+    "Namics Corporation",
+    "IHI Corporation",
+    "Hokkaido Electric Power Co., Inc.",
+    "Toshiba Energy Systems & Solutions Corporation",
+    "JSR",
+    "Mazda Motor Corporation",
+    "Inpex",
+    "Hitachi High-Tech",
+    "J-Power",
+    "Nisshinbo Holdings",
+    "TOYO Aluminium K.K.",
+    "FDK Corporation",
+    "TOYO Tanso Co., Ltd.",
+    "Advanced Engineering Services",
+    "Kobe Steel",
+    "Nippon Chemical Industrial",
+    "Peccell Technologies, Inc.",
+    "Meiji",
+    "Thermo Fisher Scientific",
+    "thyssenkrupp nucera",
+    "Zeon",
+    "Nikken Sekkei",
+    "ISE Chemicals Corporation",
+    "West Japan Engineering Consultants, Inc.",
+    "SPD Laboratory, Inc.",
+    "Canon",
+    "Dow Chemical",
+    "Daido Metal",
+    "Calsonic Kansei",
+    "Choshu Industry",
+    "The Furukawa Battery Co., Ltd.",
+    "Kuraray"
+  ],
+  "params": {
+    "NB": 500,
+    "SEED": 0,
+    "BLK": 5,
+    "YMIN": 2006,
+    "YLAST": 2024
+  },
+  "holdout_cache_existed_at_freeze": false,
+  "sha256": "034a1746b91206c1d35c6a4e09474bf1cb06722472595d1b11f83f4aca01c2d6",
+  "note": "코호트와 외부 1~40군 결과를 본 뒤 세운 가설이므로 맹검 확증이 아니라 보지 않은 표본에서의 재현 검정이다."
+}

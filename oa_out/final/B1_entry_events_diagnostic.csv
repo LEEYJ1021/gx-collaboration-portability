@@ -1,0 +1,802 @@
+﻿corp_norm,topic_id,blk,n,e_max,e_min,domain,subfield,prior_domain,prior_subfield
+LIXIL,T10024,1,5,1,0,SOLAR,"Renewable Energy, Sustainability and the Environment",False,False
+LIXIL,T10121,1,3,1,0,THERMAL,Building and Construction,False,False
+LIXIL,T10311,2,1,1,1,FUELCELL,Materials Chemistry,False,False
+LIXIL,T10440,2,2,1,0,THERMAL,Materials Chemistry,True,False
+LIXIL,T10568,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+LIXIL,T10811,2,2,1,0,FUELCELL,Materials Chemistry,False,False
+LIXIL,T10859,2,2,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+LIXIL,T10905,1,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",False,False
+LIXIL,T11277,2,1,1,1,THERMAL,Materials Chemistry,True,False
+LIXIL,T11529,1,3,1,1,THERMAL,Mechanical Engineering,False,False
+LIXIL,T12105,1,1,1,1,THERMAL,Building and Construction,False,False
+LIXIL,T12186,2,1,1,1,LIGHT,Waste Management and Disposal,False,False
+LIXIL,T12195,2,1,1,1,THERMAL,Spectroscopy,True,False
+LIXIL,T12897,1,1,1,1,MATERIAL,Mechanical Engineering,True,False
+LIXIL,T13171,3,1,1,1,MATERIAL,Polymers and Plastics,True,False
+LIXIL,T13298,1,3,1,0,SOLAR,Mechanical Engineering,False,False
+NTTドコモ,T10495,1,1,1,1,MATERIAL,Catalysis,True,False
+NTTドコモ,T11249,1,4,1,0,POWER,Electrical and Electronic Engineering,False,True
+NTTファシリティーズ,T10361,1,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+NTTファシリティーズ,T10424,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+NTTファシリティーズ,T10603,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+NTTファシリティーズ,T10998,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+NTTファシリティーズ,T11249,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+NTTファシリティーズ,T12105,1,1,1,1,THERMAL,Building and Construction,True,True
+NTTファシリティーズ,T12628,3,1,1,1,MATERIAL,Polymers and Plastics,False,False
+NTTファシリティーズ,T12838,1,1,1,1,SOLAR,Environmental Engineering,True,True
+NTTファシリティーズ,T14276,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+TOTO,T10078,1,3,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+TOTO,T10121,1,4,1,0,THERMAL,Building and Construction,True,False
+TOTO,T10850,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+TOTO,T10998,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+TOTO,T11382,2,2,1,1,THERMAL,Computational Mechanics,True,False
+TOTO,T11945,1,1,1,1,THERMAL,Mechanical Engineering,True,False
+イビデン,T10353,2,1,1,1,MATERIAL,Inorganic Chemistry,True,False
+イビデン,T10361,1,1,1,1,POWER,Electrical and Electronic Engineering,True,False
+イビデン,T10905,2,2,1,0,SOLAR,"Renewable Energy, Sustainability and the Environment",False,False
+イビデン,T11362,1,1,1,1,MATERIAL,Mechanical Engineering,True,False
+イビデン,T13990,2,1,1,1,VEHICLE,Automotive Engineering,True,False
+オリンパス,T10030,1,2,1,0,FUELCELL,"Renewable Energy, Sustainability and the Environment",False,False
+オリンパス,T10045,2,1,1,1,SOLAR,Electrical and Electronic Engineering,False,True
+オリンパス,T10083,2,3,1,0,MATERIAL,Materials Chemistry,True,True
+オリンパス,T10097,1,1,1,1,LIGHT,Materials Chemistry,True,True
+オリンパス,T10407,1,1,1,1,MATERIAL,Molecular Biology,True,True
+オリンパス,T10409,1,1,1,1,FUELCELL,Electrical and Electronic Engineering,False,False
+オリンパス,T10610,2,1,1,1,MATERIAL,Biomaterials,True,False
+オリンパス,T11249,2,1,1,1,POWER,Electrical and Electronic Engineering,False,True
+オリンパス,T12202,1,1,1,1,MATERIAL,Atmospheric Science,True,False
+クボタ,T10121,2,1,1,1,THERMAL,Building and Construction,False,False
+クボタ,T10219,2,2,1,0,MATERIAL,Mechanics of Materials,True,False
+クボタ,T10281,3,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+クボタ,T10389,1,1,1,1,MATERIAL,Polymers and Plastics,True,False
+クボタ,T10603,1,1,1,1,POWER,Electrical and Electronic Engineering,False,False
+クボタ,T10717,1,2,1,0,MATERIAL,Mechanical Engineering,True,False
+クボタ,T11249,1,1,1,1,POWER,Electrical and Electronic Engineering,False,False
+クボタ,T11825,2,5,1,0,MATERIAL,Catalysis,True,False
+クボタ,T13990,3,1,1,1,VEHICLE,Automotive Engineering,True,False
+コニカミノルタ,T10045,1,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+コニカミノルタ,T10131,3,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+コニカミノルタ,T10219,2,1,1,1,MATERIAL,Mechanics of Materials,True,False
+コニカミノルタ,T10311,1,9,1,0,FUELCELL,Materials Chemistry,False,False
+コニカミノルタ,T10321,2,1,1,1,LIGHT,Materials Chemistry,True,True
+コニカミノルタ,T10389,3,1,1,1,MATERIAL,Polymers and Plastics,True,False
+コニカミノルタ,T10407,1,1,1,1,MATERIAL,Molecular Biology,True,False
+コニカミノルタ,T10850,3,1,1,1,THERMAL,Mechanical Engineering,True,False
+コニカミノルタ,T10859,2,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+コニカミノルタ,T11240,3,7,1,0,LIGHT,Materials Chemistry,True,True
+コニカミノルタ,T11249,1,1,1,1,POWER,Electrical and Electronic Engineering,False,True
+コニカミノルタ,T11382,2,1,1,1,THERMAL,Computational Mechanics,False,False
+サンデン,T10228,2,2,1,1,POWER,Electrical and Electronic Engineering,False,True
+サンデン,T10278,2,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+サンデン,T10768,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,False
+サンデン,T12139,1,1,1,1,VEHICLE,Mechanical Engineering,True,True
+スズキ,T10074,2,1,1,1,MATERIAL,Materials Chemistry,True,False
+スズキ,T10192,2,6,1,0,MATERIAL,Materials Chemistry,True,False
+スズキ,T10219,1,1,1,1,MATERIAL,Mechanics of Materials,False,False
+スズキ,T10278,1,3,1,0,VEHICLE,Electrical and Electronic Engineering,True,False
+スズキ,T10281,1,2,1,0,BATTERY,Electrical and Electronic Engineering,False,False
+スズキ,T10389,1,2,1,0,MATERIAL,Polymers and Plastics,False,False
+スズキ,T10409,1,3,1,0,FUELCELL,Electrical and Electronic Engineering,False,False
+スズキ,T10504,3,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+スズキ,T10805,1,1,1,1,VEHICLE,Automotive Engineering,True,False
+スズキ,T10808,1,1,1,1,VEHICLE,Automotive Engineering,True,False
+スズキ,T10998,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+スズキ,T12285,3,1,1,1,MATERIAL,Biomedical Engineering,True,False
+スズキ,T12759,2,2,1,0,VEHICLE,Automotive Engineering,True,True
+スズキ,T13858,1,1,1,1,VEHICLE,Automotive Engineering,True,False
+スズキ,T13990,1,1,1,1,VEHICLE,Automotive Engineering,True,False
+スズキ,T14454,1,1,1,1,MATERIAL,Mechanical Engineering,False,True
+トッパン・フォームズ,T10045,1,4,1,0,SOLAR,Electrical and Electronic Engineering,False,False
+トヨタ自動車,T10079,2,1,1,1,MATERIAL,Materials Chemistry,True,True
+トヨタ自動車,T10104,2,5,1,0,THERMAL,Biomedical Engineering,True,True
+トヨタ自動車,T10131,1,4,1,0,MATERIAL,"Electronic, Optical and Magnetic Materials",True,True
+トヨタ自動車,T10175,1,7,1,0,POWER,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T10221,2,3,1,0,MATERIAL,Mechanics of Materials,True,True
+トヨタ自動車,T10223,3,1,1,1,POWER,Control and Systems Engineering,True,False
+トヨタ自動車,T10247,2,10,1,0,SOLAR,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T10405,1,3,1,0,MATERIAL,Organic Chemistry,True,True
+トヨタ自動車,T10468,2,3,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+トヨタ自動車,T10568,2,2,1,1,THERMAL,Mechanical Engineering,True,True
+トヨタ自動車,T10603,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T10610,1,1,1,1,MATERIAL,Biomaterials,True,True
+トヨタ自動車,T10707,1,2,1,0,MATERIAL,Mechanical Engineering,True,True
+トヨタ自動車,T10717,1,1,1,1,MATERIAL,Mechanical Engineering,True,True
+トヨタ自動車,T10740,2,1,1,1,THERMAL,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T10768,1,2,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T10806,1,1,1,1,THERMAL,Mechanics of Materials,True,True
+トヨタ自動車,T10810,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+トヨタ自動車,T10905,1,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+トヨタ自動車,T11009,2,1,1,1,MATERIAL,Biomedical Engineering,True,True
+トヨタ自動車,T11240,1,1,1,1,LIGHT,Materials Chemistry,True,True
+トヨタ自動車,T11249,1,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T11276,1,1,1,1,SOLAR,Artificial Intelligence,True,False
+トヨタ自動車,T11281,2,1,1,1,MATERIAL,Inorganic Chemistry,True,True
+トヨタ自動車,T11341,1,2,1,0,MATERIAL,Materials Chemistry,True,True
+トヨタ自動車,T11342,1,2,1,0,LIGHT,Materials Chemistry,True,True
+トヨタ自動車,T11351,1,1,1,1,MATERIAL,Mechanical Engineering,True,True
+トヨタ自動車,T11593,2,4,1,0,MATERIAL,Process Chemistry and Technology,True,False
+トヨタ自動車,T11690,1,36,1,0,BATTERY,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T11774,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+トヨタ自動車,T11945,1,4,1,0,THERMAL,Mechanical Engineering,True,True
+トヨタ自動車,T12008,3,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+トヨタ自動車,T12063,1,2,1,0,THERMAL,Computational Mechanics,True,True
+トヨタ自動車,T12095,1,8,1,0,VEHICLE,Automotive Engineering,True,True
+トヨタ自動車,T12139,2,1,1,1,VEHICLE,Mechanical Engineering,True,True
+トヨタ自動車,T12271,1,1,1,1,POWER,"Renewable Energy, Sustainability and the Environment",True,True
+トヨタ自動車,T12406,1,1,1,1,VEHICLE,Mechanical Engineering,True,True
+トヨタ自動車,T12442,1,8,1,0,THERMAL,Civil and Structural Engineering,True,True
+トヨタ自動車,T12451,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+トヨタ自動車,T12838,3,4,1,0,SOLAR,Environmental Engineering,True,True
+トヨタ自動車,T12875,1,1,1,1,THERMAL,Materials Chemistry,True,True
+トヨタ自動車,T12898,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+トヨタ自動車,T13116,1,1,1,1,THERMAL,Computational Mechanics,True,True
+トヨタ自動車,T13282,2,1,1,1,VEHICLE,Ocean Engineering,True,False
+トヨタ自動車,T14454,3,1,1,1,MATERIAL,Mechanical Engineering,True,True
+ニコン,T10024,1,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,False
+ニコン,T10030,2,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",False,True
+ニコン,T10045,2,2,1,0,SOLAR,Electrical and Electronic Engineering,True,True
+ニコン,T10063,2,1,1,1,MATERIAL,Biomaterials,True,False
+ニコン,T10078,3,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+ニコン,T10083,2,1,1,1,MATERIAL,Materials Chemistry,True,True
+ニコン,T10131,2,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+ニコン,T10407,3,1,1,1,MATERIAL,Molecular Biology,True,True
+ニコン,T10511,1,1,1,1,POWER,Materials Chemistry,False,True
+ニコン,T10735,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+ニコン,T11169,1,2,1,1,LIGHT,Materials Chemistry,True,True
+ニコン,T12085,2,1,1,1,VEHICLE,Biomaterials,True,False
+ニコン,T12202,1,1,1,1,MATERIAL,Atmospheric Science,True,False
+ニコン,T12561,2,1,1,1,LIGHT,Molecular Biology,True,False
+ニコン,T12570,2,1,1,1,MATERIAL,Organic Chemistry,True,False
+ニコン,T13990,1,1,1,1,VEHICLE,Automotive Engineering,False,False
+ノーリツ,T10361,1,1,1,1,POWER,Electrical and Electronic Engineering,False,False
+ノーリツ,T10998,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+ノーリツ,T12898,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+フジクラ,T10409,2,1,1,1,FUELCELL,Electrical and Electronic Engineering,False,True
+フジクラ,T10440,1,3,1,0,THERMAL,Materials Chemistry,True,True
+フジクラ,T10568,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+フジクラ,T10624,2,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+フジクラ,T10663,2,1,1,1,BATTERY,Automotive Engineering,False,False
+フジクラ,T10905,2,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+フジクラ,T11249,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+フジクラ,T11945,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+フジクラ,T12560,1,3,1,0,THERMAL,Aerospace Engineering,True,False
+フジクラ,T12570,3,1,1,1,MATERIAL,Organic Chemistry,True,False
+フジクラ,T14444,2,1,1,1,POWER,Energy Engineering and Power Technology,True,False
+ブリヂストン,T10074,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+ブリヂストン,T10078,1,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+ブリヂストン,T10092,2,1,1,1,MATERIAL,Organic Chemistry,True,True
+ブリヂストン,T10117,1,1,1,1,VEHICLE,Fluid Flow and Transfer Processes,True,False
+ブリヂストン,T10219,2,1,1,1,MATERIAL,Mechanics of Materials,True,True
+ブリヂストン,T10610,2,1,1,1,MATERIAL,Biomaterials,True,False
+ブリヂストン,T10810,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+ブリヂストン,T10859,1,2,1,0,MATERIAL,"Surfaces, Coatings and Films",True,False
+ブリヂストン,T11169,1,2,1,1,LIGHT,Materials Chemistry,False,True
+ブリヂストン,T11240,1,1,1,1,LIGHT,Materials Chemistry,False,True
+ブリヂストン,T11249,2,1,1,1,POWER,Electrical and Electronic Engineering,False,True
+ブリヂストン,T12095,1,1,1,1,VEHICLE,Automotive Engineering,True,True
+ブリヂストン,T12186,2,1,1,1,LIGHT,Waste Management and Disposal,True,False
+ブリヂストン,T12405,2,1,1,1,MATERIAL,Biomedical Engineering,True,False
+ブリヂストン,T12570,1,2,1,1,MATERIAL,Organic Chemistry,True,True
+ブリヂストン,T13171,2,2,1,0,MATERIAL,Polymers and Plastics,True,True
+ブリヂストン,T14303,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+ホンダ,T10074,1,5,1,0,MATERIAL,Materials Chemistry,True,True
+ホンダ,T10099,2,1,1,1,POWER,Condensed Matter Physics,True,False
+ホンダ,T10121,3,3,1,0,THERMAL,Building and Construction,True,False
+ホンダ,T10281,1,1,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+ホンダ,T10404,3,2,1,1,MATERIAL,Molecular Biology,True,False
+ホンダ,T10440,1,1,1,1,THERMAL,Materials Chemistry,True,True
+ホンダ,T10513,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+ホンダ,T10603,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+ホンダ,T10663,1,2,1,1,BATTERY,Automotive Engineering,True,True
+ホンダ,T11091,1,1,1,1,VEHICLE,Mechanical Engineering,True,True
+ホンダ,T11249,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+ホンダ,T11277,1,1,1,1,THERMAL,Materials Chemistry,True,True
+ホンダ,T11362,1,1,1,1,MATERIAL,Mechanical Engineering,True,True
+ホンダ,T11558,3,1,1,1,MATERIAL,Mechanics of Materials,True,True
+ホンダ,T11664,1,2,1,0,MATERIAL,Mechanical Engineering,True,True
+ホンダ,T11690,1,1,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+ホンダ,T11825,3,2,1,0,MATERIAL,Catalysis,True,True
+ホンダ,T11941,1,1,1,1,POWER,"Safety, Risk, Reliability and Quality",True,False
+ホンダ,T12139,2,1,1,1,VEHICLE,Mechanical Engineering,True,True
+ホンダ,T13312,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+ホンダ,T13990,1,4,1,0,VEHICLE,Automotive Engineering,True,True
+ユニチカ,T10197,2,3,1,0,MATERIAL,Water Science and Technology,True,False
+ユニチカ,T10321,3,1,1,1,LIGHT,Materials Chemistry,True,False
+ユニチカ,T10389,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+ユニチカ,T10488,1,2,1,0,MATERIAL,Biomaterials,True,True
+ユニチカ,T10501,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+ユニチカ,T10859,2,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+ユニチカ,T11362,1,1,1,1,MATERIAL,Mechanical Engineering,True,False
+ユニチカ,T12084,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+ユニチカ,T14454,1,1,1,1,MATERIAL,Mechanical Engineering,True,False
+リンナイ,T12195,1,3,1,0,THERMAL,Spectroscopy,False,False
+三井化学,T10018,2,1,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+三井化学,T10030,3,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,True
+三井化学,T10074,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+三井化学,T10078,1,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+三井化学,T10179,3,1,1,1,BATTERY,"Electronic, Optical and Magnetic Materials",True,False
+三井化学,T10192,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+三井化学,T10197,1,1,1,1,MATERIAL,Water Science and Technology,True,False
+三井化学,T10219,2,1,1,1,MATERIAL,Mechanics of Materials,True,False
+三井化学,T10247,3,2,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+三井化学,T10311,2,2,1,0,FUELCELL,Materials Chemistry,True,True
+三井化学,T10495,3,1,1,1,MATERIAL,Catalysis,True,False
+三井化学,T10859,1,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+三井化学,T10905,3,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+三井化学,T11073,1,1,1,1,VEHICLE,Biomedical Engineering,False,False
+三井化学,T11225,3,1,1,1,THERMAL,"Renewable Energy, Sustainability and the Environment",True,True
+三井化学,T11382,1,2,1,1,THERMAL,Computational Mechanics,True,False
+三井化学,T11593,3,2,1,0,MATERIAL,Process Chemistry and Technology,True,False
+三井化学,T11664,1,1,1,1,MATERIAL,Mechanical Engineering,True,True
+三井化学,T11784,3,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+三井化学,T12628,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+三井化学,T12642,2,1,1,1,MATERIAL,Biomedical Engineering,True,True
+三井化学,T14303,2,2,1,0,MATERIAL,Polymers and Plastics,True,True
+三井金属,T10030,1,4,1,0,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,False
+三井金属,T10281,2,1,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+三井金属,T10353,2,4,1,0,MATERIAL,Inorganic Chemistry,True,False
+三井金属,T10409,1,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,True
+三井金属,T10495,1,3,1,0,MATERIAL,Catalysis,True,False
+三井金属,T13990,3,1,1,1,VEHICLE,Automotive Engineering,True,False
+三協立山,T10121,1,2,1,1,THERMAL,Building and Construction,False,False
+三協立山,T10132,3,1,1,1,MATERIAL,Ceramics and Composites,False,False
+三協立山,T11619,3,1,1,1,THERMAL,Aerospace Engineering,True,False
+三協立山,T13171,3,1,1,1,MATERIAL,Polymers and Plastics,False,False
+三菱マテリアル,T10018,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+三菱マテリアル,T10030,2,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,True
+三菱マテリアル,T10078,3,2,1,0,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+三菱マテリアル,T10099,2,2,1,0,POWER,Condensed Matter Physics,True,False
+三菱マテリアル,T10117,3,1,1,1,VEHICLE,Fluid Flow and Transfer Processes,True,False
+三菱マテリアル,T10131,1,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+三菱マテリアル,T10405,2,1,1,1,MATERIAL,Organic Chemistry,True,False
+三菱マテリアル,T10409,3,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,True
+三菱マテリアル,T10440,2,2,1,0,THERMAL,Materials Chemistry,True,True
+三菱マテリアル,T10511,1,1,1,1,POWER,Materials Chemistry,False,True
+三菱マテリアル,T10810,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+三菱マテリアル,T10850,3,2,1,0,THERMAL,Mechanical Engineering,True,True
+三菱マテリアル,T11073,3,3,1,0,VEHICLE,Biomedical Engineering,True,False
+三菱マテリアル,T11277,3,2,1,0,THERMAL,Materials Chemistry,True,True
+三菱マテリアル,T11690,2,3,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+三菱マテリアル,T11784,1,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+三菱マテリアル,T12063,3,1,1,1,THERMAL,Computational Mechanics,True,False
+三菱マテリアル,T12084,2,1,1,1,MATERIAL,Polymers and Plastics,True,False
+三菱マテリアル,T13232,3,2,1,0,MATERIAL,Biomedical Engineering,True,False
+三菱自動車,T10018,1,6,1,0,BATTERY,Electrical and Electronic Engineering,False,False
+三菱自動車,T10219,1,1,1,1,MATERIAL,Mechanics of Materials,True,False
+三菱自動車,T10278,2,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+三菱自動車,T10305,2,2,1,0,POWER,Electrical and Electronic Engineering,False,True
+三菱自動車,T10409,2,2,1,0,FUELCELL,Electrical and Electronic Engineering,False,True
+三菱自動車,T10553,3,1,1,1,THERMAL,Computational Mechanics,True,True
+三菱自動車,T10663,2,1,1,1,BATTERY,Automotive Engineering,True,True
+三菱自動車,T10707,1,1,1,1,MATERIAL,Mechanical Engineering,True,False
+三菱自動車,T10768,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,False
+三菱自動車,T10998,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+三菱自動車,T11091,2,1,1,1,VEHICLE,Mechanical Engineering,True,True
+三菱自動車,T11382,1,1,1,1,THERMAL,Computational Mechanics,False,False
+三菱自動車,T11945,1,1,1,1,THERMAL,Mechanical Engineering,False,False
+三菱自動車,T12759,1,6,1,0,VEHICLE,Automotive Engineering,True,True
+三菱自動車,T13990,1,2,1,0,VEHICLE,Automotive Engineering,True,True
+三菱電機,T10078,3,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+三菱電機,T10083,2,9,1,0,MATERIAL,Materials Chemistry,True,True
+三菱電機,T10219,2,3,1,0,MATERIAL,Mechanics of Materials,True,True
+三菱電機,T10440,2,1,1,1,THERMAL,Materials Chemistry,True,True
+三菱電機,T10567,3,1,1,1,VEHICLE,Industrial and Manufacturing Engineering,True,False
+三菱電機,T10568,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+三菱電機,T10717,2,1,1,1,MATERIAL,Mechanical Engineering,True,True
+三菱電機,T10740,1,2,1,1,THERMAL,Electrical and Electronic Engineering,True,True
+三菱電機,T10808,1,1,1,1,VEHICLE,Automotive Engineering,True,True
+三菱電機,T10810,3,2,1,0,MATERIAL,Polymers and Plastics,True,True
+三菱電機,T11192,2,3,1,0,VEHICLE,Ocean Engineering,True,False
+三菱電機,T11225,1,1,1,1,THERMAL,"Renewable Energy, Sustainability and the Environment",True,True
+三菱電機,T11249,1,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+三菱電機,T11276,1,2,1,1,SOLAR,Artificial Intelligence,True,False
+三菱電機,T11341,2,1,1,1,MATERIAL,Materials Chemistry,True,True
+三菱電機,T11941,3,2,1,1,POWER,"Safety, Risk, Reliability and Quality",True,False
+三菱電機,T12074,3,1,1,1,MATERIAL,Biomedical Engineering,True,False
+三菱電機,T12358,3,1,1,1,THERMAL,Materials Chemistry,True,True
+三菱電機,T12405,3,2,1,0,MATERIAL,Biomedical Engineering,True,False
+三菱電機,T12442,2,2,1,1,THERMAL,Civil and Structural Engineering,True,False
+三菱電機,T12567,1,1,1,1,THERMAL,Computational Mechanics,True,True
+三菱電機,T12897,1,1,1,1,MATERIAL,Mechanical Engineering,True,True
+三菱電機,T12898,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+三菱電機,T13171,2,2,1,1,MATERIAL,Polymers and Plastics,True,True
+三菱電機,T14276,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+中国電力,T10121,1,2,1,0,THERMAL,Building and Construction,True,False
+中国電力,T10175,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+中国電力,T10192,2,3,1,0,MATERIAL,Materials Chemistry,True,True
+中国電力,T10223,3,1,1,1,POWER,Control and Systems Engineering,True,False
+中国電力,T10424,1,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+中国電力,T10603,1,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+中国電力,T11941,1,2,1,0,POWER,"Safety, Risk, Reliability and Quality",True,False
+中国電力,T12186,2,1,1,1,LIGHT,Waste Management and Disposal,False,False
+中国電力,T12277,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+中国電力,T12451,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+中国電力,T12567,1,1,1,1,THERMAL,Computational Mechanics,True,True
+中国電力,T14444,1,1,1,1,POWER,Energy Engineering and Power Technology,True,False
+中部電力,T10018,1,2,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+中部電力,T10179,2,1,1,1,BATTERY,"Electronic, Optical and Magnetic Materials",True,True
+中部電力,T10219,1,1,1,1,MATERIAL,Mechanics of Materials,True,False
+中部電力,T10223,2,3,1,0,POWER,Control and Systems Engineering,True,True
+中部電力,T10361,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+中部電力,T10468,1,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+中部電力,T10603,3,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+中部電力,T10661,1,2,1,0,MATERIAL,Biomaterials,True,False
+中部電力,T10811,2,1,1,1,FUELCELL,Materials Chemistry,True,True
+中部電力,T11225,1,2,1,1,THERMAL,"Renewable Energy, Sustainability and the Environment",True,True
+中部電力,T11231,3,1,1,1,FUELCELL,Environmental Engineering,True,True
+中部電力,T11276,1,10,1,0,SOLAR,Artificial Intelligence,True,False
+中部電力,T11382,2,1,1,1,THERMAL,Computational Mechanics,True,True
+中部電力,T11941,1,1,1,1,POWER,"Safety, Risk, Reliability and Quality",True,False
+中部電力,T12063,2,1,1,1,THERMAL,Computational Mechanics,True,True
+中部電力,T12095,1,1,1,1,VEHICLE,Automotive Engineering,True,False
+中部電力,T12277,2,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+中部電力,T12804,2,1,1,1,VEHICLE,Control and Systems Engineering,True,True
+中部電力,T12898,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+中部電力,T14276,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+九州電力,T10132,1,1,1,1,MATERIAL,Ceramics and Composites,True,False
+九州電力,T10424,1,2,1,1,POWER,Electrical and Electronic Engineering,True,True
+九州電力,T10468,2,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+九州電力,T10567,3,2,1,1,VEHICLE,Industrial and Manufacturing Engineering,True,False
+九州電力,T10603,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+九州電力,T10611,1,1,1,1,LIGHT,Electrical and Electronic Engineering,False,True
+九州電力,T10766,1,1,1,1,THERMAL,Environmental Engineering,True,False
+九州電力,T10768,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,False,True
+九州電力,T11192,2,1,1,1,VEHICLE,Ocean Engineering,True,False
+九州電力,T11276,1,1,1,1,SOLAR,Artificial Intelligence,False,False
+九州電力,T11941,1,1,1,1,POWER,"Safety, Risk, Reliability and Quality",True,False
+九州電力,T12277,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+九州電力,T12804,1,1,1,1,VEHICLE,Control and Systems Engineering,False,True
+九州電力,T13990,1,1,1,1,VEHICLE,Automotive Engineering,False,False
+九州電力,T14444,2,2,1,0,POWER,Energy Engineering and Power Technology,True,False
+住友ゴム工業,T10018,3,2,1,1,BATTERY,Electrical and Electronic Engineering,False,False
+住友ゴム工業,T10281,3,2,1,1,BATTERY,Electrical and Electronic Engineering,False,False
+住友ゴム工業,T10407,3,1,1,1,MATERIAL,Molecular Biology,True,False
+住友ゴム工業,T10501,1,3,1,0,MATERIAL,Polymers and Plastics,True,True
+住友ゴム工業,T10661,1,2,1,0,MATERIAL,Biomaterials,True,False
+住友ゴム工業,T10735,1,1,1,1,MATERIAL,Materials Chemistry,True,False
+住友ゴム工業,T10805,2,1,1,1,VEHICLE,Automotive Engineering,False,False
+住友ゴム工業,T10810,3,6,1,0,MATERIAL,Polymers and Plastics,True,True
+住友ゴム工業,T10859,2,2,1,0,MATERIAL,"Surfaces, Coatings and Films",True,False
+住友ゴム工業,T11558,1,1,1,1,MATERIAL,Mechanics of Materials,True,False
+住友ゴム工業,T12416,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+住友ゴム工業,T12875,2,1,1,1,THERMAL,Materials Chemistry,False,True
+住友ゴム工業,T13312,2,1,1,1,THERMAL,Mechanical Engineering,False,True
+住友ゴム工業,T14303,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+住友大阪セメント,T10024,1,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",False,False
+住友大阪セメント,T10045,1,1,1,1,SOLAR,Electrical and Electronic Engineering,False,True
+住友大阪セメント,T10097,1,1,1,1,LIGHT,Materials Chemistry,True,True
+住友大阪セメント,T10099,3,1,1,1,POWER,Condensed Matter Physics,True,False
+住友大阪セメント,T10192,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+住友大阪セメント,T12074,3,1,1,1,MATERIAL,Biomedical Engineering,True,False
+住友大阪セメント,T12105,1,1,1,1,THERMAL,Building and Construction,True,False
+住友理工,T10074,1,1,1,1,MATERIAL,Materials Chemistry,True,False
+住友理工,T10404,3,1,1,1,MATERIAL,Molecular Biology,True,False
+住友理工,T10850,2,2,1,1,THERMAL,Mechanical Engineering,False,True
+住友理工,T13171,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+住友理工,T14454,1,2,1,0,MATERIAL,Mechanical Engineering,True,False
+住友重機械工業,T10099,2,1,1,1,POWER,Condensed Matter Physics,True,False
+住友重機械工業,T10132,2,1,1,1,MATERIAL,Ceramics and Composites,True,False
+住友重機械工業,T10278,2,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+住友重機械工業,T11784,3,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,False
+住友重機械工業,T11825,3,1,1,1,MATERIAL,Catalysis,True,False
+住友重機械工業,T11978,1,1,1,1,VEHICLE,Civil and Structural Engineering,True,False
+住友重機械工業,T12442,2,1,1,1,THERMAL,Civil and Structural Engineering,True,True
+住友重機械工業,T12875,3,1,1,1,THERMAL,Materials Chemistry,True,True
+住友重機械工業,T12898,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+住友重機械工業,T13093,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+住友重機械工業,T13584,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+住友重機械工業,T14444,3,1,1,1,POWER,Energy Engineering and Power Technology,True,False
+住友電気工業,T10030,3,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,True
+住友電気工業,T10083,1,2,1,1,MATERIAL,Materials Chemistry,True,True
+住友電気工業,T10104,3,1,1,1,THERMAL,Biomedical Engineering,True,False
+住友電気工業,T10197,2,1,1,1,MATERIAL,Water Science and Technology,True,False
+住友電気工業,T10281,1,8,1,0,BATTERY,Electrical and Electronic Engineering,True,True
+住友電気工業,T10311,1,6,1,0,FUELCELL,Materials Chemistry,False,True
+住友電気工業,T10353,2,2,1,0,MATERIAL,Inorganic Chemistry,True,False
+住友電気工業,T10389,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+住友電気工業,T10409,3,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,True
+住友電気工業,T10440,2,11,1,0,THERMAL,Materials Chemistry,True,True
+住友電気工業,T10513,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+住友電気工業,T10917,3,2,1,0,POWER,Control and Systems Engineering,True,False
+住友電気工業,T11277,2,1,1,1,THERMAL,Materials Chemistry,True,True
+住友電気工業,T11341,1,8,1,0,MATERIAL,Materials Chemistry,True,True
+住友電気工業,T11690,1,2,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+住友電気工業,T12084,2,4,1,0,MATERIAL,Polymers and Plastics,True,True
+住友電気工業,T12202,3,1,1,1,MATERIAL,Atmospheric Science,True,False
+住友電気工業,T12451,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+住友電気工業,T12875,3,1,1,1,THERMAL,Materials Chemistry,True,True
+住友電気工業,T14444,2,3,1,0,POWER,Energy Engineering and Power Technology,True,False
+住友電気工業,T14454,2,2,1,0,MATERIAL,Mechanical Engineering,True,True
+住友電気工業,T14502,2,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+信越化学工業,T10018,2,5,1,0,BATTERY,Electrical and Electronic Engineering,False,True
+信越化学工業,T10083,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+信越化学工業,T10219,1,2,1,0,MATERIAL,Mechanics of Materials,True,False
+信越化学工業,T10353,2,1,1,1,MATERIAL,Inorganic Chemistry,True,False
+信越化学工業,T10405,2,1,1,1,MATERIAL,Organic Chemistry,True,False
+信越化学工業,T10407,3,1,1,1,MATERIAL,Molecular Biology,True,False
+信越化学工業,T10610,1,1,1,1,MATERIAL,Biomaterials,True,False
+信越化学工業,T10624,1,2,1,0,SOLAR,Electrical and Electronic Engineering,True,True
+信越化学工業,T10810,3,2,1,0,MATERIAL,Polymers and Plastics,True,True
+信越化学工業,T10811,3,1,1,1,FUELCELL,Materials Chemistry,False,True
+信越化学工業,T10859,3,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+信越化学工業,T11342,2,1,1,1,LIGHT,Materials Chemistry,True,True
+信越化学工業,T11825,2,1,1,1,MATERIAL,Catalysis,True,False
+凸版印刷,T10192,3,2,1,0,MATERIAL,Materials Chemistry,True,True
+凸版印刷,T10409,1,4,1,0,FUELCELL,Electrical and Electronic Engineering,True,True
+凸版印刷,T10440,3,1,1,1,THERMAL,Materials Chemistry,False,True
+凸版印刷,T10610,3,3,1,1,MATERIAL,Biomaterials,True,False
+凸版印刷,T11471,1,2,1,0,MATERIAL,Materials Chemistry,True,True
+凸版印刷,T12570,3,1,1,1,MATERIAL,Organic Chemistry,True,True
+出光興産,T10099,2,1,1,1,POWER,Condensed Matter Physics,True,False
+出光興産,T10219,1,5,1,0,MATERIAL,Mechanics of Materials,True,False
+出光興産,T10247,2,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+出光興産,T10321,3,1,1,1,LIGHT,Materials Chemistry,True,True
+出光興産,T10409,3,1,1,1,FUELCELL,Electrical and Electronic Engineering,False,True
+出光興産,T10513,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+出光興産,T10568,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+出光興産,T10660,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+出光興産,T10998,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+出光興産,T11009,1,1,1,1,MATERIAL,Biomedical Engineering,True,False
+出光興産,T11225,1,2,1,0,THERMAL,"Renewable Energy, Sustainability and the Environment",True,True
+出光興産,T11249,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+出光興産,T11784,3,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+出光興産,T12063,3,1,1,1,THERMAL,Computational Mechanics,True,True
+出光興産,T12560,1,1,1,1,THERMAL,Aerospace Engineering,True,False
+古河機械金属,T10018,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+古河機械金属,T10219,1,1,1,1,MATERIAL,Mechanics of Materials,False,False
+古河機械金属,T10278,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,False,True
+古河機械金属,T10405,3,1,1,1,MATERIAL,Organic Chemistry,True,False
+古河機械金属,T10511,1,1,1,1,POWER,Materials Chemistry,True,True
+古河機械金属,T11249,2,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+古河機械金属,T12084,3,1,1,1,MATERIAL,Polymers and Plastics,True,False
+古河電気工業,T10013,2,4,1,0,MATERIAL,Organic Chemistry,True,False
+古河電気工業,T10018,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+古河電気工業,T10030,3,2,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",False,False
+古河電気工業,T10045,1,2,1,0,SOLAR,Electrical and Electronic Engineering,True,True
+古河電気工業,T10074,3,2,1,0,MATERIAL,Materials Chemistry,True,True
+古河電気工業,T10083,2,1,1,1,MATERIAL,Materials Chemistry,True,True
+古河電気工業,T10131,1,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+古河電気工業,T10192,2,1,1,1,MATERIAL,Materials Chemistry,True,True
+古河電気工業,T10197,3,2,1,1,MATERIAL,Water Science and Technology,True,False
+古河電気工業,T10278,3,1,1,1,VEHICLE,Electrical and Electronic Engineering,False,True
+古河電気工業,T10311,3,2,1,1,FUELCELL,Materials Chemistry,False,True
+古河電気工業,T10405,3,1,1,1,MATERIAL,Organic Chemistry,True,True
+古河電気工業,T10440,1,2,1,0,THERMAL,Materials Chemistry,True,True
+古河電気工業,T10568,3,1,1,1,THERMAL,Mechanical Engineering,True,True
+古河電気工業,T10850,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+古河電気工業,T11249,2,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+古河電気工業,T11784,3,3,1,0,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,False
+古河電気工業,T12084,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+古河電気工業,T12358,3,1,1,1,THERMAL,Materials Chemistry,True,True
+古河電気工業,T14502,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+大同特殊鋼,T10018,2,2,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+大同特殊鋼,T10175,3,1,1,1,POWER,Electrical and Electronic Engineering,False,True
+大同特殊鋼,T10440,2,1,1,1,THERMAL,Materials Chemistry,True,True
+大同特殊鋼,T10468,2,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,False
+大同特殊鋼,T10905,2,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,False
+大同特殊鋼,T12099,3,1,1,1,MATERIAL,Mechanical Engineering,False,False
+太平洋セメント,T10018,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,False
+太平洋セメント,T10132,2,1,1,1,MATERIAL,Ceramics and Composites,False,False
+太平洋セメント,T10192,2,1,1,1,MATERIAL,Materials Chemistry,False,True
+太平洋セメント,T10353,2,1,1,1,MATERIAL,Inorganic Chemistry,False,False
+太平洋セメント,T10409,2,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,True
+太平洋セメント,T11091,3,2,1,1,VEHICLE,Mechanical Engineering,False,True
+太平洋セメント,T11774,2,2,1,0,THERMAL,Mechanical Engineering,True,False
+太平洋セメント,T12186,1,2,1,0,LIGHT,Waste Management and Disposal,False,False
+富士電機,T10030,1,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,True
+富士電機,T10099,1,2,1,0,POWER,Condensed Matter Physics,True,False
+富士電機,T10131,1,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+富士電機,T10223,1,5,1,0,POWER,Control and Systems Engineering,True,True
+富士電機,T10311,1,1,1,1,FUELCELL,Materials Chemistry,True,True
+富士電機,T10389,2,1,1,1,MATERIAL,Polymers and Plastics,True,False
+富士電機,T10424,1,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+富士電機,T10468,1,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+富士電機,T10568,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+富士電機,T10603,1,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+富士電機,T10663,3,1,1,1,BATTERY,Automotive Engineering,False,True
+富士電機,T10717,1,3,1,0,MATERIAL,Mechanical Engineering,True,True
+富士電機,T10768,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+富士電機,T10850,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+富士電機,T11276,1,1,1,1,SOLAR,Artificial Intelligence,True,False
+富士電機,T11277,1,2,1,0,THERMAL,Materials Chemistry,True,True
+富士電機,T11362,1,1,1,1,MATERIAL,Mechanical Engineering,True,True
+富士電機,T11529,1,3,1,0,THERMAL,Mechanical Engineering,True,True
+富士電機,T12277,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+富士電機,T12898,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+富士電機,T14276,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+富士電機,T14502,1,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+島津製作所,T10018,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+島津製作所,T10024,1,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,False
+島津製作所,T10030,2,2,1,0,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,True
+島津製作所,T10045,1,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+島津製作所,T10063,1,6,1,0,MATERIAL,Biomaterials,True,False
+島津製作所,T10078,1,2,1,0,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,False
+島津製作所,T10079,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+島津製作所,T10083,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+島津製作所,T10097,3,2,1,0,LIGHT,Materials Chemistry,True,True
+島津製作所,T10099,3,1,1,1,POWER,Condensed Matter Physics,False,False
+島津製作所,T10131,2,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+島津製作所,T10132,1,1,1,1,MATERIAL,Ceramics and Composites,True,False
+島津製作所,T10179,3,1,1,1,BATTERY,"Electronic, Optical and Magnetic Materials",True,True
+島津製作所,T10197,3,1,1,1,MATERIAL,Water Science and Technology,True,False
+島津製作所,T10247,2,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+島津製作所,T10278,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,False,True
+島津製作所,T10281,3,5,1,0,BATTERY,Electrical and Electronic Engineering,True,True
+島津製作所,T10353,1,1,1,1,MATERIAL,Inorganic Chemistry,True,False
+島津製作所,T10407,2,1,1,1,MATERIAL,Molecular Biology,True,True
+島津製作所,T10504,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,False,True
+島津製作所,T10611,1,2,1,0,LIGHT,Electrical and Electronic Engineering,False,True
+島津製作所,T10660,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+島津製作所,T10661,3,1,1,1,MATERIAL,Biomaterials,True,True
+島津製作所,T10663,3,1,1,1,BATTERY,Automotive Engineering,True,True
+島津製作所,T10717,3,2,1,0,MATERIAL,Mechanical Engineering,True,True
+島津製作所,T10810,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+島津製作所,T10859,3,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+島津製作所,T10998,2,2,1,0,THERMAL,Mechanical Engineering,True,True
+島津製作所,T11091,1,1,1,1,VEHICLE,Mechanical Engineering,False,False
+島津製作所,T11277,2,1,1,1,THERMAL,Materials Chemistry,True,True
+島津製作所,T11351,3,1,1,1,MATERIAL,Mechanical Engineering,True,True
+島津製作所,T11529,1,2,1,0,THERMAL,Mechanical Engineering,True,False
+島津製作所,T11558,1,1,1,1,MATERIAL,Mechanics of Materials,True,True
+島津製作所,T11593,3,2,1,1,MATERIAL,Process Chemistry and Technology,True,False
+島津製作所,T11664,3,3,1,0,MATERIAL,Mechanical Engineering,True,True
+島津製作所,T11686,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+島津製作所,T12063,3,1,1,1,THERMAL,Computational Mechanics,True,False
+島津製作所,T12095,1,1,1,1,VEHICLE,Automotive Engineering,False,False
+島津製作所,T12285,1,1,1,1,MATERIAL,Biomedical Engineering,True,False
+島津製作所,T12561,3,6,1,0,LIGHT,Molecular Biology,True,True
+島津製作所,T13171,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+島津製作所,T13312,1,1,1,1,THERMAL,Mechanical Engineering,True,False
+川崎重工業,T10018,1,7,1,0,BATTERY,Electrical and Electronic Engineering,False,False
+川崎重工業,T10030,1,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,False
+川崎重工業,T10221,2,3,1,0,MATERIAL,Mechanics of Materials,True,True
+川崎重工業,T10223,1,6,1,0,POWER,Control and Systems Engineering,False,False
+川崎重工業,T10278,1,3,1,0,VEHICLE,Electrical and Electronic Engineering,True,False
+川崎重工業,T10409,2,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,True
+川崎重工業,T10553,2,3,1,0,THERMAL,Computational Mechanics,True,True
+川崎重工業,T10603,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+川崎重工業,T10610,2,1,1,1,MATERIAL,Biomaterials,True,False
+川崎重工業,T10663,1,5,1,0,BATTERY,Automotive Engineering,False,True
+川崎重工業,T10717,3,1,1,1,MATERIAL,Mechanical Engineering,True,True
+川崎重工業,T10850,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+川崎重工業,T11192,1,1,1,1,VEHICLE,Ocean Engineering,True,False
+川崎重工業,T11690,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,False
+川崎重工業,T11945,1,3,1,0,THERMAL,Mechanical Engineering,True,True
+川崎重工業,T12560,1,1,1,1,THERMAL,Aerospace Engineering,True,False
+川崎重工業,T12567,2,1,1,1,THERMAL,Computational Mechanics,True,True
+川崎重工業,T12838,3,1,1,1,SOLAR,Environmental Engineering,False,False
+川崎重工業,T13093,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+川崎重工業,T13858,1,1,1,1,VEHICLE,Automotive Engineering,True,True
+川崎重工業,T13990,2,1,1,1,VEHICLE,Automotive Engineering,True,True
+帝人,T10018,3,1,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+帝人,T10179,1,1,1,1,BATTERY,"Electronic, Optical and Magnetic Materials",False,False
+帝人,T10219,1,1,1,1,MATERIAL,Mechanics of Materials,True,False
+帝人,T10281,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+帝人,T10404,1,1,1,1,MATERIAL,Molecular Biology,True,False
+帝人,T10409,1,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,True
+帝人,T10501,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+帝人,T10611,3,1,1,1,LIGHT,Electrical and Electronic Engineering,True,True
+帝人,T10624,1,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+帝人,T10810,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+帝人,T10859,1,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+帝人,T11169,1,3,1,0,LIGHT,Materials Chemistry,False,True
+帝人,T11281,1,1,1,1,MATERIAL,Inorganic Chemistry,True,False
+帝人,T13251,2,1,1,1,THERMAL,Electrical and Electronic Engineering,True,True
+日新電機,T10083,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+日新電機,T10624,1,1,1,1,SOLAR,Electrical and Electronic Engineering,False,True
+日新電機,T10768,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,False,True
+日新電機,T14502,1,2,1,0,POWER,Electrical and Electronic Engineering,True,True
+日本板硝子,T11091,1,1,1,1,VEHICLE,Mechanical Engineering,False,True
+日本特殊陶業,T10030,2,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",True,False
+日本特殊陶業,T10099,3,1,1,1,POWER,Condensed Matter Physics,False,False
+日本特殊陶業,T10117,1,1,1,1,VEHICLE,Fluid Flow and Transfer Processes,False,False
+日本特殊陶業,T10281,2,4,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+日本特殊陶業,T10440,1,1,1,1,THERMAL,Materials Chemistry,False,True
+日本特殊陶業,T10495,1,1,1,1,MATERIAL,Catalysis,True,False
+日本特殊陶業,T10811,2,1,1,1,FUELCELL,Materials Chemistry,True,True
+日本特殊陶業,T10859,3,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+日本特殊陶業,T11362,1,2,1,0,MATERIAL,Mechanical Engineering,True,False
+日本特殊陶業,T12095,2,1,1,1,VEHICLE,Automotive Engineering,True,False
+日本特殊陶業,T12099,2,1,1,1,MATERIAL,Mechanical Engineering,True,True
+日本精工,T10768,3,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+日本精工,T10805,1,2,1,0,VEHICLE,Automotive Engineering,True,False
+日本精工,T10808,2,2,1,0,VEHICLE,Automotive Engineering,True,True
+日本精工,T10850,1,1,1,1,THERMAL,Mechanical Engineering,False,False
+日本精工,T11249,1,2,1,1,POWER,Electrical and Electronic Engineering,False,True
+日本精工,T12759,2,3,1,0,VEHICLE,Automotive Engineering,True,True
+日本精工,T14502,1,1,1,1,POWER,Electrical and Electronic Engineering,False,True
+日本製紙,T10018,2,1,1,1,BATTERY,Electrical and Electronic Engineering,False,False
+日本製紙,T10179,3,4,1,0,BATTERY,"Electronic, Optical and Magnetic Materials",True,False
+日本製紙,T10998,2,1,1,1,THERMAL,Mechanical Engineering,False,True
+日本製紙,T11009,3,1,1,1,MATERIAL,Biomedical Engineering,True,False
+日本製紙,T12271,1,1,1,1,POWER,"Renewable Energy, Sustainability and the Environment",False,True
+日本製紙,T13584,2,2,1,1,THERMAL,Mechanical Engineering,False,True
+日本電信電話,T10024,1,3,1,0,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+日本電信電話,T10078,2,3,1,0,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+日本電信電話,T10079,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+日本電信電話,T10097,1,6,1,0,LIGHT,Materials Chemistry,True,True
+日本電信電話,T10247,3,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+日本電信電話,T10389,1,2,1,0,MATERIAL,Polymers and Plastics,True,True
+日本電信電話,T10405,2,1,1,1,MATERIAL,Organic Chemistry,True,False
+日本電信電話,T10424,1,2,1,1,POWER,Electrical and Electronic Engineering,True,True
+日本電信電話,T10488,2,1,1,1,MATERIAL,Biomaterials,True,False
+日本電信電話,T10501,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+日本電信電話,T10717,1,1,1,1,MATERIAL,Mechanical Engineering,True,False
+日本電信電話,T10811,1,2,1,0,FUELCELL,Materials Chemistry,True,True
+日本電信電話,T10850,1,1,1,1,THERMAL,Mechanical Engineering,True,False
+日本電信電話,T10859,1,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+日本電信電話,T10917,1,2,1,0,POWER,Control and Systems Engineering,True,True
+日本電信電話,T10972,3,1,1,1,POWER,Control and Systems Engineering,True,True
+日本電信電話,T10998,1,1,1,1,THERMAL,Mechanical Engineering,True,False
+日本電信電話,T11231,3,1,1,1,FUELCELL,Environmental Engineering,True,True
+日本電信電話,T11249,1,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+日本電信電話,T11529,1,2,1,0,THERMAL,Mechanical Engineering,True,False
+日本電信電話,T11664,3,3,1,0,MATERIAL,Mechanical Engineering,True,True
+日本電信電話,T11784,1,1,1,1,MATERIAL,"Renewable Energy, Sustainability and the Environment",True,True
+日本電信電話,T12008,3,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+日本電信電話,T12084,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+日本電信電話,T12085,3,1,1,1,VEHICLE,Biomaterials,True,True
+日本電信電話,T12139,2,1,1,1,VEHICLE,Mechanical Engineering,True,True
+日本電信電話,T12195,1,1,1,1,THERMAL,Spectroscopy,True,False
+日本電信電話,T12285,2,2,1,1,MATERIAL,Biomedical Engineering,True,True
+日本電信電話,T12309,1,4,1,0,SOLAR,Electrical and Electronic Engineering,True,True
+日本電信電話,T12451,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+日本電信電話,T12759,3,1,1,1,VEHICLE,Automotive Engineering,True,True
+日本電信電話,T12838,1,1,1,1,SOLAR,Environmental Engineering,True,True
+日本電信電話,T13171,1,3,1,0,MATERIAL,Polymers and Plastics,True,True
+日本電信電話,T13282,3,1,1,1,VEHICLE,Ocean Engineering,True,True
+日本電信電話,T13858,3,1,1,1,VEHICLE,Automotive Engineering,True,True
+日本電信電話,T14502,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+日本電気硝子,T10018,1,5,1,0,BATTERY,Electrical and Electronic Engineering,False,True
+日本電気硝子,T10024,2,2,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",False,False
+日本電気硝子,T10192,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+日本電気硝子,T10281,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+日産自動車,T10079,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+日産自動車,T10097,3,1,1,1,LIGHT,Materials Chemistry,True,True
+日産自動車,T10099,1,1,1,1,POWER,Condensed Matter Physics,True,False
+日産自動車,T10175,1,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+日産自動車,T10179,1,1,1,1,BATTERY,"Electronic, Optical and Magnetic Materials",True,False
+日産自動車,T10247,3,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+日産自動車,T10353,1,1,1,1,MATERIAL,Inorganic Chemistry,True,False
+日産自動車,T10468,3,3,1,0,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+日産自動車,T10603,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+日産自動車,T10624,1,2,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+日産自動車,T10707,3,3,1,0,MATERIAL,Mechanical Engineering,True,True
+日産自動車,T10735,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+日産自動車,T10768,1,3,1,0,VEHICLE,Electrical and Electronic Engineering,True,True
+日産自動車,T10810,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+日産自動車,T10859,2,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+日産自動車,T10998,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+日産自動車,T11169,1,1,1,1,LIGHT,Materials Chemistry,False,True
+日産自動車,T11231,1,1,1,1,FUELCELL,Environmental Engineering,True,False
+日産自動車,T11249,1,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+日産自動車,T11341,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+日産自動車,T11342,2,1,1,1,LIGHT,Materials Chemistry,True,True
+日産自動車,T11529,1,4,1,0,THERMAL,Mechanical Engineering,True,True
+日産自動車,T11593,3,1,1,1,MATERIAL,Process Chemistry and Technology,True,False
+日産自動車,T11619,1,1,1,1,THERMAL,Aerospace Engineering,True,False
+日産自動車,T11690,2,1,1,1,BATTERY,Electrical and Electronic Engineering,True,True
+日産自動車,T11978,1,1,1,1,VEHICLE,Civil and Structural Engineering,True,True
+日産自動車,T12309,2,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+日産自動車,T12406,1,1,1,1,VEHICLE,Mechanical Engineering,True,True
+日産自動車,T12838,3,2,1,0,SOLAR,Environmental Engineering,True,True
+日産自動車,T14303,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+日立金属,T10018,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+日立金属,T10099,1,7,1,0,POWER,Condensed Matter Physics,True,False
+日立金属,T10131,3,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+日立金属,T10409,2,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,True
+日立金属,T10440,2,1,1,1,THERMAL,Materials Chemistry,True,True
+日立金属,T11091,1,1,1,1,VEHICLE,Mechanical Engineering,True,True
+日立金属,T11277,3,1,1,1,THERMAL,Materials Chemistry,True,True
+日立金属,T12277,2,2,1,1,POWER,Electrical and Electronic Engineering,True,True
+明電舎,T10175,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+明電舎,T10192,1,2,1,0,MATERIAL,Materials Chemistry,False,True
+明電舎,T10197,1,3,1,0,MATERIAL,Water Science and Technology,False,False
+明電舎,T10219,3,1,1,1,MATERIAL,Mechanics of Materials,True,False
+明電舎,T10353,1,2,1,0,MATERIAL,Inorganic Chemistry,False,False
+明電舎,T10511,1,2,1,0,POWER,Materials Chemistry,True,True
+明電舎,T10603,1,4,1,0,POWER,Electrical and Electronic Engineering,True,True
+明電舎,T10805,1,2,1,1,VEHICLE,Automotive Engineering,True,False
+明電舎,T10998,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+明電舎,T11192,2,1,1,1,VEHICLE,Ocean Engineering,True,False
+明電舎,T11231,2,2,1,0,FUELCELL,Environmental Engineering,True,False
+明電舎,T11249,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+明電舎,T11664,3,1,1,1,MATERIAL,Mechanical Engineering,True,True
+明電舎,T13183,1,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+東レ,T10030,1,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",False,True
+東レ,T10079,3,2,1,0,MATERIAL,Materials Chemistry,True,True
+東レ,T10083,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+東レ,T10099,1,1,1,1,POWER,Condensed Matter Physics,False,False
+東レ,T10281,1,1,1,1,BATTERY,Electrical and Electronic Engineering,False,True
+東レ,T10361,1,2,1,1,POWER,Electrical and Electronic Engineering,False,True
+東レ,T10405,2,3,1,0,MATERIAL,Organic Chemistry,True,True
+東レ,T10407,3,1,1,1,MATERIAL,Molecular Biology,True,True
+東レ,T10409,1,1,1,1,FUELCELL,Electrical and Electronic Engineering,False,True
+東レ,T10440,2,1,1,1,THERMAL,Materials Chemistry,True,True
+東レ,T10624,1,2,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+東レ,T10859,1,5,1,0,MATERIAL,"Surfaces, Coatings and Films",True,False
+東レ,T10905,2,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+東レ,T11009,2,1,1,1,MATERIAL,Biomedical Engineering,True,False
+東レ,T11277,2,2,1,0,THERMAL,Materials Chemistry,True,True
+東レ,T11362,2,2,1,1,MATERIAL,Mechanical Engineering,True,True
+東レ,T11471,1,2,1,0,MATERIAL,Materials Chemistry,True,True
+東レ,T11558,1,2,1,0,MATERIAL,Mechanics of Materials,True,True
+東レ,T12358,1,1,1,1,THERMAL,Materials Chemistry,False,True
+東レ,T12570,1,3,1,0,MATERIAL,Organic Chemistry,True,False
+東日本旅客鉄道,T10045,2,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+東日本旅客鉄道,T10175,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+東日本旅客鉄道,T10766,1,1,1,1,THERMAL,Environmental Engineering,True,False
+東日本旅客鉄道,T10768,1,1,1,1,VEHICLE,Electrical and Electronic Engineering,True,True
+東日本旅客鉄道,T10805,2,2,1,0,VEHICLE,Automotive Engineering,True,True
+東日本旅客鉄道,T11249,2,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+東日本旅客鉄道,T11529,2,1,1,1,THERMAL,Mechanical Engineering,True,False
+東日本旅客鉄道,T14444,2,1,1,1,POWER,Energy Engineering and Power Technology,True,False
+東洋紡,T10083,3,2,1,1,MATERIAL,Materials Chemistry,True,True
+東洋紡,T10121,1,1,1,1,THERMAL,Building and Construction,True,False
+東洋紡,T10404,1,1,1,1,MATERIAL,Molecular Biology,True,True
+東洋紡,T10610,3,1,1,1,MATERIAL,Biomaterials,True,True
+東洋紡,T10611,2,2,1,0,LIGHT,Electrical and Electronic Engineering,True,True
+東洋紡,T10624,1,2,1,0,SOLAR,Electrical and Electronic Engineering,False,True
+東洋紡,T10660,3,1,1,1,MATERIAL,Polymers and Plastics,True,True
+東洋紡,T10661,1,2,1,0,MATERIAL,Biomaterials,True,True
+東洋紡,T10707,2,2,1,1,MATERIAL,Mechanical Engineering,True,True
+東洋紡,T10810,1,1,1,1,MATERIAL,Polymers and Plastics,True,True
+東洋紡,T11231,3,3,1,0,FUELCELL,Environmental Engineering,True,False
+東洋紡,T12628,2,1,1,1,MATERIAL,Polymers and Plastics,True,True
+東洋紡,T12759,3,1,1,1,VEHICLE,Automotive Engineering,False,False
+東洋紡,T13251,2,1,1,1,THERMAL,Electrical and Electronic Engineering,True,True
+東洋紡,T14285,1,3,1,0,MATERIAL,Molecular Biology,True,True
+東芝テック,T10175,2,1,1,1,POWER,Electrical and Electronic Engineering,False,False
+東芝テック,T10513,1,1,1,1,MATERIAL,Polymers and Plastics,True,False
+横浜ゴム,T10405,2,1,1,1,MATERIAL,Organic Chemistry,True,False
+横浜ゴム,T10409,3,1,1,1,FUELCELL,Electrical and Electronic Engineering,False,False
+横浜ゴム,T10810,2,2,1,1,MATERIAL,Polymers and Plastics,True,True
+横浜ゴム,T10859,3,1,1,1,MATERIAL,"Surfaces, Coatings and Films",True,False
+横浜ゴム,T11009,2,3,1,0,MATERIAL,Biomedical Engineering,True,False
+横浜ゴム,T11471,1,1,1,1,MATERIAL,Materials Chemistry,True,True
+横浜ゴム,T11558,2,2,1,0,MATERIAL,Mechanics of Materials,True,True
+横浜ゴム,T11825,2,2,1,1,MATERIAL,Catalysis,True,False
+横浜ゴム,T12628,2,2,1,0,MATERIAL,Polymers and Plastics,True,True
+王子ホールディングス,T10045,2,1,1,1,SOLAR,Electrical and Electronic Engineering,False,True
+王子ホールディングス,T10131,2,1,1,1,MATERIAL,"Electronic, Optical and Magnetic Materials",True,False
+王子ホールディングス,T10488,2,1,1,1,MATERIAL,Biomaterials,True,True
+王子ホールディングス,T10610,1,7,1,0,MATERIAL,Biomaterials,False,False
+王子ホールディングス,T10611,1,1,1,1,LIGHT,Electrical and Electronic Engineering,False,False
+王子ホールディングス,T10624,2,2,1,0,SOLAR,Electrical and Electronic Engineering,False,True
+王子ホールディングス,T10661,3,5,1,0,MATERIAL,Biomaterials,True,True
+王子ホールディングス,T11471,2,1,1,1,MATERIAL,Materials Chemistry,True,False
+王子ホールディングス,T11664,2,1,1,1,MATERIAL,Mechanical Engineering,True,False
+神鋼環境ソリューション,T10030,2,1,1,1,FUELCELL,"Renewable Energy, Sustainability and the Environment",False,False
+神鋼環境ソリューション,T10197,1,2,1,1,MATERIAL,Water Science and Technology,False,False
+神鋼環境ソリューション,T10409,3,1,1,1,FUELCELL,Electrical and Electronic Engineering,True,False
+神鋼環境ソリューション,T10850,2,1,1,1,THERMAL,Mechanical Engineering,True,True
+神鋼環境ソリューション,T11091,3,1,1,1,VEHICLE,Mechanical Engineering,False,True
+第一工業製薬,T10024,1,2,1,0,SOLAR,"Renewable Energy, Sustainability and the Environment",False,False
+第一工業製薬,T10063,2,1,1,1,MATERIAL,Biomaterials,True,True
+第一工業製薬,T10132,2,2,1,0,MATERIAL,Ceramics and Composites,True,False
+第一工業製薬,T10404,1,1,1,1,MATERIAL,Molecular Biology,True,False
+第一工業製薬,T10610,1,1,1,1,MATERIAL,Biomaterials,True,False
+第一工業製薬,T10661,1,1,1,1,MATERIAL,Biomaterials,True,False
+関西電力,T10024,3,1,1,1,SOLAR,"Renewable Energy, Sustainability and the Environment",True,True
+関西電力,T10045,1,1,1,1,SOLAR,Electrical and Electronic Engineering,True,True
+関西電力,T10079,3,1,1,1,MATERIAL,Materials Chemistry,True,True
+関西電力,T10660,1,2,1,0,MATERIAL,Polymers and Plastics,True,True
+関西電力,T10661,1,1,1,1,MATERIAL,Biomaterials,True,False
+関西電力,T10663,1,1,1,1,BATTERY,Automotive Engineering,True,True
+関西電力,T10811,2,1,1,1,FUELCELL,Materials Chemistry,True,True
+関西電力,T10998,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+関西電力,T11091,3,1,1,1,VEHICLE,Mechanical Engineering,True,True
+関西電力,T11192,2,1,1,1,VEHICLE,Ocean Engineering,True,False
+関西電力,T11225,1,7,1,0,THERMAL,"Renewable Energy, Sustainability and the Environment",True,True
+関西電力,T11249,3,1,1,1,POWER,Electrical and Electronic Engineering,True,True
+関西電力,T11276,1,2,1,1,SOLAR,Artificial Intelligence,True,False
+関西電力,T11382,2,1,1,1,THERMAL,Computational Mechanics,True,True
+関西電力,T12451,1,3,1,0,POWER,Electrical and Electronic Engineering,True,True
+関西電力,T12804,2,1,1,1,VEHICLE,Control and Systems Engineering,True,True
+関西電力,T13116,1,1,1,1,THERMAL,Computational Mechanics,True,False
+関西電力,T14444,1,3,1,1,POWER,Energy Engineering and Power Technology,True,False
+高砂熱学工業,T10603,3,1,1,1,POWER,Electrical and Electronic Engineering,False,True
+高砂熱学工業,T11276,3,1,1,1,SOLAR,Artificial Intelligence,False,False
+高砂熱学工業,T11774,1,1,1,1,THERMAL,Mechanical Engineering,True,True
+高砂熱学工業,T12063,1,1,1,1,THERMAL,Computational Mechanics,True,False

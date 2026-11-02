@@ -1,0 +1,647 @@
+﻿블록,inst,기관,국가,유형,논문,표본기업,표본내
+0,I4210165351,Toyota Central Research and Development Laboratories (Japan),JP,company,195,トヨタ自動車,True
+0,I4210110524,Nissan (Japan),JP,company,136,日産自動車,True
+0,I4210137853,Toyota Motor Corporation (Japan),JP,company,165,トヨタ自動車,True
+0,I2251713219,NTT (Japan),JP,company,109,日本電信電話,True
+0,I2800996768,Kansai Electric Power (Japan),JP,company,72,関西電力,True
+0,I4210099606,Mitsubishi Chemical Group Science and Technology Research Center (Japan),JP,company,72,,False
+0,I65143321,Hitachi (Japan),JP,company,115,日立金属,True
+0,I1283155146,Panasonic (Japan),JP,company,63,,False
+0,I1292669757,Toshiba (Japan),JP,company,64,TOTO,True
+0,I118347220,NEC (Japan),JP,company,60,,False
+0,I4210107548,Japan Broadcasting Corporation (Japan),JP,company,46,,False
+0,I173469426,Tokyo Gas (Japan),JP,company,45,,False
+0,I864419238,Mitsubishi Materials (Japan),JP,company,52,三菱マテリアル,True
+0,I4405264947,Sharp Corporation (Japan),JP,company,74,,False
+0,I4210127379,Asahi Glass (Japan),JP,company,41,,False
+0,I4210117815,Mitsubishi Heavy Industries (Japan),JP,company,48,,False
+0,I3412056,Sanyo (Japan),JP,company,48,,False
+0,I4210108607,Hitachi Maxell (Japan),JP,company,31,,False
+0,I4210133125,Mitsubishi Electric (Japan),JP,company,48,三菱電機,True
+0,I4405275138,"TOHO GAS Co., Ltd. (Japan)",JP,company,27,,False
+0,I4405275580,"Daihatsu Motor Co., Ltd. (Japan)",JP,company,27,,False
+0,I4210102907,Asahi Kasei (Japan),JP,company,30,,False
+0,I4405275046,"NTT Facilities, Inc. (Japan)",JP,company,51,NTTファシリティーズ,True
+0,I101979096,Meidensha (Japan),JP,company,77,明電舎,True
+0,I4210116797,GS Yuasa (Japan),JP,company,43,,False
+0,I4210143797,Sony (Japan),JP,company,22,,False
+0,I4405275867,"Mizuho Research & Technologies, Ltd. (Japan)",JP,company,27,,False
+0,I2800578655,Osaka Gas (Japan),JP,company,20,,False
+0,I4405276694,"Honda R&D Co., Ltd. (Japan)",JP,company,38,ホンダ,True
+0,I126913320,Dai Nippon Printing (Japan),JP,company,19,,False
+0,I1283473643,Honda (Japan),JP,company,41,ホンダ,True
+0,I4405274595,"AGC Seimi Chemical Co., Ltd. (Japan)",JP,company,19,,False
+0,I74906145,Toto (Japan),JP,company,19,TOTO,True
+0,I2802429745,NGK Insulators (Japan),JP,company,22,,False
+0,I24193003,Ricoh (Japan),JP,company,17,,False
+0,I4210087728,Idemitsu Kosan (Japan),JP,company,19,出光興産,True
+0,I4405275155,Nippon Chemi-CON Corporation (Japan),JP,company,16,,False
+0,I1315201533,Tokuyama (Japan),JP,company,15,,False
+0,I2799635668,Fuji Electric (Japan),JP,company,23,富士電機,True
+0,I4210110163,Nippon Soken (Japan),JP,company,15,,False
+0,I168192097,Mitsubishi Chemical (Japan),JP,company,15,,False
+0,I4405264265,"Peccell Technologies, Inc. (Japan)",JP,company,14,,False
+0,I4405275444,"Panasonic Electric Works Co., Ltd. (Japan)",JP,company,14,,False
+0,I131392684,NGK Spark Plug (Japan),JP,company,12,日本特殊陶業,True
+0,I4210098230,Fujikura (Japan),JP,company,12,フジクラ,True
+0,I4210121247,Samsung (Japan),JP,company,12,,False
+0,I4405273840,"Proterial, Ltd. (Japan)",JP,company,12,日立金属,True
+0,I875722105,Chubu Electric Power (Japan),JP,company,23,中部電力,True
+0,I119530710,TEPCO (Japan),JP,company,24,,False
+0,I135705104,Nippon Steel (Japan),JP,company,15,,False
+0,I4210098271,Aisin (Japan),JP,company,14,,False
+0,I4210114283,Kyocera (Japan),JP,company,16,,False
+0,I4210115317,"Toray Industries, Inc. (Japan)",JP,company,11,東レ,True
+0,I4210132443,Nippon Steel Chemical and Material (Japan),JP,company,11,,False
+0,I4210150307,Daido Metal (Japan),JP,company,13,,False
+0,I4210159520,Mizuho (Japan),JP,company,13,,False
+0,I4405275337,"FUJI Electric Advanced Technology Co., Ltd. (Japan)",JP,company,11,富士電機,True
+0,I59814707,Tosoh (Japan),JP,company,12,,False
+0,I164917862,J-Power (Japan),JP,company,10,,False
+0,I4405270755,"Takasago Thermal Engineering Co., Ltd. (Japan)",JP,company,20,高砂熱学工業,True
+0,I924388194,Murata (Japan),JP,company,10,,False
+0,I139235422,Sumitomo Chemical (Japan),JP,company,11,,False
+0,I24262253,Subaru (Japan),JP,company,9,,False
+0,I38674515,Kanadevia (Japan),JP,company,14,,False
+0,I4210110394,Toppan (Japan),JP,company,9,凸版印刷,True
+0,I4210132090,Nippon Chemical Industrial (Japan),JP,company,9,,False
+0,I4210150228,Nippon Kayaku (Japan),JP,company,9,,False
+0,I4405274632,"TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd. (Japan)",JP,company,9,,False
+0,I4405275267,"TOYO Tanso Co., Ltd. (Japan)",JP,company,9,,False
+0,I1320697193,Canon (Japan),JP,company,8,,False
+0,I4210114347,Rigaku (Japan),JP,company,8,,False
+0,I4210152248,Mitsui Chemicals (Japan),JP,company,9,三井化学,True
+0,I4405264157,"KRI, Inc. (Japan)",JP,company,10,,False
+0,I4405264638,"Kandenko Co., Ltd. (Japan)",JP,company,8,,False
+0,I4405274887,"Kyushu Electric Power Co., Inc. (Japan)",JP,company,18,九州電力,True
+0,I4405275167,"The Nippon Synthetic Chemical Industry Co., Ltd. (Japan)",JP,company,8,,False
+0,I4405275813,"Toray Research Center, Inc. (Japan)",JP,company,11,東レ,True
+0,I861488341,Ube (Japan),JP,company,9,,False
+0,I4210143048,Daiichi Kogyo Seiyaku (Japan),JP,company,7,第一工業製薬,True
+0,I4405264353,"SHIN-KOBE Electric Machinery Co., Ltd. (Japan)",JP,company,18,,False
+0,I4405265190,"SOKEN, Inc (Japan)",JP,company,7,,False
+0,I4405274010,"Chugai RO Co., Ltd. (Japan)",JP,company,8,,False
+0,I4405274275,"Japan Vilene Company, Ltd. (Japan)",JP,company,7,,False
+0,I4405274792,Tanaka Chemical Corporation (Japan),JP,company,7,,False
+0,I4405282743,Sanyo Electric (Japan),JP,company,11,,False
+0,I84776176,Shimadzu (Japan),JP,company,7,島津製作所,True
+0,I157085157,Nippon Sheet Glass (Japan),JP,company,6,日本板硝子,True
+0,I4405264743,"Kurimoto, Ltd. (Japan)",JP,company,8,,False
+0,I4405275670,"Nissan ARC, Ltd. (Japan)",JP,company,6,日産自動車,True
+0,I4405276299,"Tokai Carbon Co., Ltd. (Japan)",JP,company,6,,False
+0,I181679074,TDK (Japan),JP,company,5,,False
+0,I25222733,Showa Denko (Japan),JP,company,5,,False
+0,I277853755,Sumitomo Precision Products (Japan),JP,company,5,,False
+0,I4210098242,Daikin (Japan),JP,company,5,,False
+0,I4210103109,Noritake (Japan),JP,company,5,,False
+0,I4210107687,Nisshinbo Holdings (Japan),JP,company,5,,False
+0,I4210110562,Sumitomo Seika Chemicals (Japan),JP,company,5,,False
+0,I4210119777,Shinko Electric Industries (Japan),JP,company,5,,False
+0,I4210124878,Eneos (Japan),JP,company,5,,False
+0,I4210158203,Mitsui Engineering and Shipbuilding (Japan),JP,company,5,,False
+0,I4388891902,"Showa Denko Materials Co., Ltd. (Japan)",JP,company,5,,False
+0,I4405265346,"FC Development Co., Ltd. (Japan)",JP,company,5,,False
+0,I4405265545,"SPD Laboratory, Inc. (Japan)",JP,company,5,,False
+0,I4405273816,"DOW Corning Toray Co., Ltd. (Japan)",JP,company,5,,False
+0,I2800271857,Sumco Corporation (Japan),JP,company,14,,False
+0,I2252096349,Fujitsu (Japan),JP,company,12,,False
+0,I4405265177,"IMRA Material R&D Co., Ltd. (Japan)",JP,company,10,,False
+0,I4405274264,"The Furukawa Battery Co., Ltd. (Japan)",JP,company,10,,False
+0,I2801240501,Japan Steel Works (Japan),JP,company,9,,False
+0,I4210131637,Kaneka (Japan),JP,company,9,,False
+0,I4405274925,"Hokkaido Electric Power Co., Inc. (Japan)",JP,company,9,,False
+0,I4405282893,Materials & Energy Research Institute Tokyo (Japan),JP,company,9,,False
+0,I179059509,Dow Chemical (Japan),JP,company,7,,False
+0,I4210132650,Denso (Japan),JP,company,7,,False
+0,I4210166210,Sumitomo Electric Industries (Japan),JP,company,7,住友電気工業,True
+0,I4405264104,Taiheiyo Cement Corporation (Japan),JP,company,7,太平洋セメント,True
+0,I4405265396,"Hino Motors, Ltd. (Japan)",JP,company,7,,False
+0,I4405272583,"Tohoku Electric Power Co., Inc. (Japan)",JP,company,7,,False
+0,I74894318,Ebara (Japan),JP,company,6,,False
+0,I203737432,East Japan Railway (Japan),JP,company,5,東日本旅客鉄道,True
+0,I4210129977,Advanced Engineering Services (Japan),JP,company,5,,False
+0,I4405265047,"NASU Denki-Tekko Co., Ltd. (Japan)",JP,company,5,,False
+0,I4405275788,Toyo Denki Seizo K.K. (Japan),JP,company,5,,False
+0,I185177349,Casio (Japan),JP,company,4,,False
+0,I193666615,Kawasaki Heavy Industries (Japan),JP,company,4,川崎重工業,True
+0,I4210101228,IHI Corporation (Japan),JP,company,4,,False
+0,I4210136893,JNC (Japan),JP,company,4,,False
+0,I4405274976,Toyota Technical Development Corporation (Japan),JP,company,4,,False
+0,I4405276331,"Showa Aircraft Industry Co., Ltd. (Japan)",JP,company,4,,False
+0,I1310099993,Mitsubishi Motors (Japan),JP,company,3,三菱自動車,True
+0,I144851764,Taisei (Japan),JP,company,4,,False
+0,I4210114609,Sangi (Japan),JP,company,3,,False
+0,I4210139203,Seiko Holdings (Japan),JP,company,3,,False
+0,I4210149377,Toshiba Mitsubishi-Electric Industrial Systems Corporation (Japan),JP,company,3,,False
+0,I4210153176,Renesas Electronics (Japan),JP,company,3,,False
+0,I4210165369,Isuzu Advanced Engineering Center (Japan),JP,company,3,,False
+0,I4405264582,Tepco SYSTEMS Corporation (Japan),JP,company,3,,False
+0,I4405265028,"Geothermal Energy Research And Development Co., Ltd. (Japan)",JP,company,3,,False
+0,I4405265699,"DAI-DAN Co., Ltd. (Japan)",JP,company,3,,False
+0,I4405275791,JFE Steel Corporation (Japan),JP,company,3,,False
+0,I4405275903,"Nihon Sekkei, Inc. (Japan)",JP,company,3,,False
+0,I4405276575,"Hitachi Construction Machinery Co., Ltd. (Japan)",JP,company,3,,False
+0,I869066700,Cosmo Oil (Japan),JP,company,3,,False
+0,I882656400,Komatsu (Japan),JP,company,3,,False
+0,I119487337,Yaskawa Electric (Japan),JP,company,2,,False
+0,I1329334486,Mitsuba (Japan),JP,company,2,,False
+0,I150993360,Hamamatsu Photonics (Japan),JP,company,2,,False
+0,I2801034194,Hokuriku Electric Power Company (Japan),JP,company,3,,False
+0,I4210091544,Isuzu Motors (Japan),JP,company,2,,False
+0,I4210109677,AutoNetworks Technologies (Japan),JP,company,2,,False
+0,I4210114911,Meiji (Japan),JP,company,2,,False
+0,I4210127054,Nikken Sekkei (Japan),JP,company,3,,False
+0,I4210145315,Toyota Industries (Japan),JP,company,2,,False
+0,I4210156525,Spring-8 (Japan),JP,company,2,,False
+0,I4210157335,Furukawa Electric (Japan),JP,company,2,古河電気工業,True
+0,I4405263898,"MTC Co., Ltd. (Japan)",JP,company,2,,False
+0,I4405264278,"Sakamoto Yakuhin Kogyo Co., Ltd. (Japan)",JP,company,2,,False
+0,I4405264886,Jatco Ltd. (Japan),JP,company,2,,False
+0,I4405264889,KGK Company Limited (Japan),JP,company,2,,False
+0,I4405265329,Nichicon Corporation (Japan),JP,company,2,,False
+0,I4405265575,Tokin Corporation (Japan),JP,company,2,,False
+0,I4405265596,"Docon Co., Ltd. (Japan)",JP,company,2,,False
+0,I4405273983,West Japan Railway Company (Japan),JP,company,2,,False
+0,I4405274625,Nitto Kogyo Corporation (Japan),JP,company,2,,False
+0,I4210159314,Daido Steel (Japan),JP,company,14,大同特殊鋼,True
+0,I4405264871,Pasco Corporation (Japan),JP,company,2,,False
+0,I4405275765,"Sanken Setsubi Kogyo Co., Ltd. (Japan)",JP,company,2,,False
+0,I113974858,Mitsubishi Research Institute (Japan),JP,company,1,,False
+0,I140518562,DIC (Japan),JP,company,1,,False
+0,I162282272,ROHM,JP,company,1,,False
+0,I2801717034,Mitsubishi Gas Chemical (Japan),JP,company,1,,False
+0,I4210139742,Nippon Koei (Japan),JP,company,1,,False
+0,I4405263774,C-TECH Corporation (Japan),JP,company,1,,False
+0,I4405264203,Sojitz Corp. (Japan),JP,company,1,,False
+0,I4405264594,"Rengo Co., Ltd. (Japan)",JP,company,1,,False
+0,I4405265058,Kewpie Corporation (Japan),JP,company,1,,False
+0,I4405274678,Maeda Corporation (Japan),JP,company,1,,False
+0,I4405274699,"DNP Scientific Analysis Center, Inc. (Japan)",JP,company,1,,False
+0,I4405275282,"West Japan Engineering Consultants, Inc. (Japan)",JP,company,1,,False
+0,I4405276682,Techno Ryowa Ltd. (Japan),JP,company,1,,False
+1,I4210137853,Toyota Motor Corporation (Japan),JP,company,311,トヨタ自動車,True
+1,I4210165351,Toyota Central Research and Development Laboratories (Japan),JP,company,251,トヨタ自動車,True
+1,I4210110524,Nissan (Japan),JP,company,175,日産自動車,True
+1,I65143321,Hitachi (Japan),JP,company,125,日立金属,True
+1,I4405275670,"Nissan ARC, Ltd. (Japan)",JP,company,70,日産自動車,True
+1,I1283155146,Panasonic (Japan),JP,company,109,,False
+1,I1292669757,Toshiba (Japan),JP,company,73,TOTO,True
+1,I118347220,NEC (Japan),JP,company,62,,False
+1,I4405275580,"Daihatsu Motor Co., Ltd. (Japan)",JP,company,47,,False
+1,I2251713219,NTT (Japan),JP,company,74,日本電信電話,True
+1,I139235422,Sumitomo Chemical (Japan),JP,company,43,,False
+1,I4210166210,Sumitomo Electric Industries (Japan),JP,company,34,住友電気工業,True
+1,I173469426,Tokyo Gas (Japan),JP,company,33,,False
+1,I2800996768,Kansai Electric Power (Japan),JP,company,45,関西電力,True
+1,I4210099606,Mitsubishi Chemical Group Science and Technology Research Center (Japan),JP,company,30,,False
+1,I2800578655,Osaka Gas (Japan),JP,company,41,,False
+1,I4210127379,Asahi Glass (Japan),JP,company,32,,False
+1,I4210121247,Samsung (Japan),JP,company,24,,False
+1,I4405276694,"Honda R&D Co., Ltd. (Japan)",JP,company,61,ホンダ,True
+1,I4210143797,Sony (Japan),JP,company,32,,False
+1,I4405264947,Sharp Corporation (Japan),JP,company,41,,False
+1,I4210103109,Noritake (Japan),JP,company,22,,False
+1,I4210117815,Mitsubishi Heavy Industries (Japan),JP,company,43,,False
+1,I4210114347,Rigaku (Japan),JP,company,21,,False
+1,I4210107548,Japan Broadcasting Corporation (Japan),JP,company,19,,False
+1,I4210124878,Eneos (Japan),JP,company,24,,False
+1,I4405275138,"TOHO GAS Co., Ltd. (Japan)",JP,company,19,,False
+1,I90469020,Teijin (Japan),JP,company,19,帝人,True
+1,I1283473643,Honda (Japan),JP,company,49,ホンダ,True
+1,I4210116797,GS Yuasa (Japan),JP,company,24,,False
+1,I4210125541,"Ishifuku Metal Industry Co., Ltd. (Japan)",JP,company,18,,False
+1,I4210150228,Nippon Kayaku (Japan),JP,company,18,,False
+1,I4405274632,"TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd. (Japan)",JP,company,18,,False
+1,I4210132650,Denso (Japan),JP,company,36,,False
+1,I119530710,TEPCO (Japan),JP,company,30,,False
+1,I4210102907,Asahi Kasei (Japan),JP,company,19,,False
+1,I4405274595,"AGC Seimi Chemical Co., Ltd. (Japan)",JP,company,16,,False
+1,I74906145,Toto (Japan),JP,company,16,TOTO,True
+1,I924388194,Murata (Japan),JP,company,16,,False
+1,I4210087728,Idemitsu Kosan (Japan),JP,company,18,出光興産,True
+1,I4210125446,Ulvac (Japan),JP,company,15,トヨタ自動車,True
+1,I4210156525,Spring-8 (Japan),JP,company,15,,False
+1,I4405275867,"Mizuho Research & Technologies, Ltd. (Japan)",JP,company,19,,False
+1,I2252096349,Fujitsu (Japan),JP,company,17,,False
+1,I1315201533,Tokuyama (Japan),JP,company,13,,False
+1,I135705104,Nippon Steel (Japan),JP,company,21,,False
+1,I4405275813,"Toray Research Center, Inc. (Japan)",JP,company,24,東レ,True
+1,I193666615,Kawasaki Heavy Industries (Japan),JP,company,26,川崎重工業,True
+1,I4210108607,Hitachi Maxell (Japan),JP,company,13,,False
+1,I4210110394,Toppan (Japan),JP,company,12,凸版印刷,True
+1,I4210150339,Kuraray (Japan),JP,company,12,,False
+1,I4405274792,Tanaka Chemical Corporation (Japan),JP,company,12,,False
+1,I129923673,JEOL (Japan),JP,company,11,,False
+1,I2948482138,Fujifilm (Japan),JP,company,13,,False
+1,I4210098242,Daikin (Japan),JP,company,11,,False
+1,I4210126859,Orient Chemical Industries (Japan),JP,company,11,,False
+1,I4405276299,"Tokai Carbon Co., Ltd. (Japan)",JP,company,11,,False
+1,I84776176,Shimadzu (Japan),JP,company,11,島津製作所,True
+1,I173263115,Nippon Electric Glass (Japan),JP,company,10,日本電気硝子,True
+1,I4210110163,Nippon Soken (Japan),JP,company,10,,False
+1,I4210131637,Kaneka (Japan),JP,company,21,,False
+1,I4210151549,Konica Minolta (Japan),JP,company,10,コニカミノルタ,True
+1,I4405270755,"Takasago Thermal Engineering Co., Ltd. (Japan)",JP,company,20,高砂熱学工業,True
+1,I1310099993,Mitsubishi Motors (Japan),JP,company,15,三菱自動車,True
+1,I4210114561,Mitsui Mining & Smelting (Japan),JP,company,9,三井金属,True
+1,I4210125918,Semiconductor Energy Laboratory (Japan),JP,company,9,,False
+1,I4210112703,Nissan Chemical Corporation (Japan),JP,company,8,,False
+1,I4210115317,"Toray Industries, Inc. (Japan)",JP,company,11,東レ,True
+1,I4210127896,Nippon Shokubai (Japan),JP,company,8,,False
+1,I4387156034,Hitachi High-Tech (Japan),JP,company,8,,False
+1,I4405264157,"KRI, Inc. (Japan)",JP,company,14,,False
+1,I4405275046,"NTT Facilities, Inc. (Japan)",JP,company,23,NTTファシリティーズ,True
+1,I4405275155,Nippon Chemi-CON Corporation (Japan),JP,company,11,,False
+1,I1282569916,Mazda Motor Corporation (Japan),JP,company,13,,False
+1,I24193003,Ricoh (Japan),JP,company,7,,False
+1,I25222733,Showa Denko (Japan),JP,company,8,,False
+1,I2799635668,Fuji Electric (Japan),JP,company,17,富士電機,True
+1,I4210133125,Mitsubishi Electric (Japan),JP,company,35,三菱電機,True
+1,I4210161661,Zeon (Japan),JP,company,7,,False
+1,I4210164926,Sekisui Chemical (Japan),JP,company,7,,False
+1,I4405273840,"Proterial, Ltd. (Japan)",JP,company,7,日立金属,True
+1,I4405275267,"TOYO Tanso Co., Ltd. (Japan)",JP,company,7,,False
+1,I4405283049,thyssenkrupp nucera (Japan),JP,company,7,,False
+1,I126913320,Dai Nippon Printing (Japan),JP,company,6,,False
+1,I131392684,NGK Spark Plug (Japan),JP,company,6,日本特殊陶業,True
+1,I4210105216,Thermo Fisher Scientific (Japan),JP,company,6,,False
+1,I4210112671,Nagase ChemteX (Japan),JP,company,6,,False
+1,I4210118530,Adeka (Japan),JP,company,6,,False
+1,I4210132090,Nippon Chemical Industrial (Japan),JP,company,6,,False
+1,I4210143048,Daiichi Kogyo Seiyaku (Japan),JP,company,6,第一工業製薬,True
+1,I4210158203,Mitsui Engineering and Shipbuilding (Japan),JP,company,15,,False
+1,I4387155934,Shoei Chemical (Japan),JP,company,6,,False
+1,I4405264758,Ohara Inc. (Japan),JP,company,6,,False
+1,I4405264913,"Daiso Co., Ltd. (Japan)",JP,company,6,,False
+1,I4405273816,"DOW Corning Toray Co., Ltd. (Japan)",JP,company,6,,False
+1,I4405276485,"Sumika Chemical Analysis Service, Ltd. (Japan)",JP,company,6,,False
+1,I101979096,Meidensha (Japan),JP,company,12,明電舎,True
+1,I3412056,Sanyo (Japan),JP,company,10,,False
+1,I4387153773,Calsonic Kansei (Japan),JP,company,10,,False
+1,I272507994,Inpex (Japan),JP,company,9,,False
+1,I203737432,East Japan Railway (Japan),JP,company,9,東日本旅客鉄道,True
+1,I4405264353,"SHIN-KOBE Electric Machinery Co., Ltd. (Japan)",JP,company,8,,False
+1,I95946053,Kobe Steel (Japan),JP,company,10,,False
+1,I2800271857,Sumco Corporation (Japan),JP,company,7,,False
+1,I4405272234,"Yamaha Motor Co., Ltd. (Japan)",JP,company,7,,False
+1,I4405274887,"Kyushu Electric Power Co., Inc. (Japan)",JP,company,10,九州電力,True
+1,I4405275793,Chiyoda Corporation (Japan),JP,company,7,,False
+1,I114132059,Tokyo Electron (Japan),JP,company,6,,False
+1,I179059509,Dow Chemical (Japan),JP,company,6,,False
+1,I4210152248,Mitsui Chemicals (Japan),JP,company,6,三井化学,True
+1,I4405274760,"Nippon Steel Engineering Co., Ltd. (Japan)",JP,company,6,,False
+1,I4405276129,"Nihon Kankyou Giken Co., Ltd. (Japan)",JP,company,6,,False
+1,I1335690138,Suzuki (Japan),JP,company,5,スズキ,True
+1,I4405273843,Showa Shell Sekiyu K.K. (Japan),JP,company,5,,False
+1,I4405274925,"Hokkaido Electric Power Co., Inc. (Japan)",JP,company,9,,False
+1,I4405275681,"ONO Sokki Co., Ltd. (Japan)",JP,company,5,,False
+1,I4405276053,Espec Corp. (Japan),JP,company,5,,False
+1,I1320697193,Canon (Japan),JP,company,4,,False
+1,I4210127054,Nikken Sekkei (Japan),JP,company,6,,False
+1,I4210149377,Toshiba Mitsubishi-Electric Industrial Systems Corporation (Japan),JP,company,4,,False
+1,I4388891902,"Showa Denko Materials Co., Ltd. (Japan)",JP,company,4,,False
+1,I4405264104,Taiheiyo Cement Corporation (Japan),JP,company,4,太平洋セメント,True
+1,I4405264886,Jatco Ltd. (Japan),JP,company,4,,False
+1,I4405265396,"Hino Motors, Ltd. (Japan)",JP,company,4,,False
+1,I864419238,Mitsubishi Materials (Japan),JP,company,4,三菱マテリアル,True
+1,I875722105,Chubu Electric Power (Japan),JP,company,15,中部電力,True
+1,I119487337,Yaskawa Electric (Japan),JP,company,3,,False
+1,I144851764,Taisei (Japan),JP,company,3,,False
+1,I175360629,Kajima Corporation (Japan),JP,company,3,,False
+1,I2799551455,Japan Organization for Metals and Energy Security (Japan),JP,company,3,,False
+1,I38674515,Kanadevia (Japan),JP,company,4,,False
+1,I4210098271,Aisin (Japan),JP,company,3,,False
+1,I4210104351,Choshu Industry (Japan),JP,company,3,,False
+1,I4210129977,Advanced Engineering Services (Japan),JP,company,8,,False
+1,I4210134490,JSR (Japan),JP,company,3,,False
+1,I4210145315,Toyota Industries (Japan),JP,company,3,,False
+1,I4210159314,Daido Steel (Japan),JP,company,32,大同特殊鋼,True
+1,I4405264103,Namics Corporation (Japan),JP,company,3,,False
+1,I4405264524,UD Trucks Corporation (Japan),JP,company,3,,False
+1,I4405265047,"NASU Denki-Tekko Co., Ltd. (Japan)",JP,company,3,,False
+1,I4405265086,"Geotech Co., Ltd. (Japan)",JP,company,3,,False
+1,I4405265699,"DAI-DAN Co., Ltd. (Japan)",JP,company,3,,False
+1,I4405273682,Mitsubishi Materials Techno Corporation (Japan),JP,company,3,三菱マテリアル,True
+1,I4405273983,West Japan Railway Company (Japan),JP,company,3,,False
+1,I4405274368,DuPont Kabushiki Kaisha (Japan),JP,company,3,,False
+1,I4405275282,"West Japan Engineering Consultants, Inc. (Japan)",JP,company,3,,False
+1,I84381889,Alps Electric (Japan),JP,company,3,,False
+1,I865555288,ShinEtsu Chemical (Japan),JP,company,3,信越化学工業,True
+1,I122762857,Toyobo (Japan),JP,company,2,東洋紡,True
+1,I137748056,Sanden (Japan),JP,company,2,サンデン,True
+1,I150993360,Hamamatsu Photonics (Japan),JP,company,2,,False
+1,I158139479,Horiba (Japan),JP,company,2,,False
+1,I186847079,Taiyo Yuden (Japan),JP,company,2,,False
+1,I4210130911,Japan Weather Association (Japan),JP,company,7,,False
+1,I2801034194,Hokuriku Electric Power Company (Japan),JP,company,4,,False
+1,I4405274831,"Hokuriku Electric Co., Ltd. (Japan)",JP,company,4,,False
+1,I164917862,J-Power (Japan),JP,company,3,,False
+1,I4210107062,Sinto (Japan),JP,company,3,,False
+1,I4210148216,Lixil (Japan),JP,company,3,LIXIL,True
+1,I4405265565,LIXIL Corporation (Japan),JP,company,3,LIXIL,True
+1,I4405273898,Itochu Techno-Solutions Corporation (Japan),JP,company,3,,False
+1,I4210101228,IHI Corporation (Japan),JP,company,2,,False
+1,I4405264062,Tonets Corporation (Japan),JP,company,2,,False
+1,I4405264638,"Kandenko Co., Ltd. (Japan)",JP,company,2,,False
+1,I4405274010,"Chugai RO Co., Ltd. (Japan)",JP,company,2,,False
+1,I4405274973,"Pacific Consultants Co., Ltd. (Japan)",JP,company,2,,False
+1,I113974858,Mitsubishi Research Institute (Japan),JP,company,1,,False
+1,I155150481,Stanley Electric (Japan),JP,company,1,,False
+1,I4210091544,Isuzu Motors (Japan),JP,company,1,,False
+1,I4210096956,Yanmar (Japan),JP,company,1,,False
+1,I4210134587,Itochu (Japan),JP,company,1,,False
+1,I4405257904,JFE Engineering Corporation (Japan),JP,company,1,,False
+1,I4405263970,"KOHA Co., Ltd. (Japan)",JP,company,1,,False
+1,I4405264594,"Rengo Co., Ltd. (Japan)",JP,company,1,,False
+1,I4405264654,FDK Corporation (Japan),JP,company,1,,False
+1,I4405264762,Kinden Corporation (Japan),JP,company,1,,False
+1,I4405264871,Pasco Corporation (Japan),JP,company,1,,False
+1,I4405264960,Marsima AQUA System Corp. (Japan),JP,company,1,,False
+1,I4405265022,"Mizusawa Industrial Chemicals, Ltd. (Japan)",JP,company,1,,False
+1,I4405265383,"Fujitec Co., Ltd. (Japan)",JP,company,1,,False
+1,I4405272583,"Tohoku Electric Power Co., Inc. (Japan)",JP,company,1,,False
+1,I4405274535,"Sekisui House, Ltd. (Japan)",JP,company,1,,False
+1,I4405274844,Tamura Corporation (Japan),JP,company,1,,False
+2,I4210165351,Toyota Central Research and Development Laboratories (Japan),JP,company,254,トヨタ自動車,True
+2,I4210137853,Toyota Motor Corporation (Japan),JP,company,214,トヨタ自動車,True
+2,I1283155146,Panasonic (Japan),JP,company,159,,False
+2,I65143321,Hitachi (Japan),JP,company,115,日立金属,True
+2,I4210110524,Nissan (Japan),JP,company,86,日産自動車,True
+2,I4405275670,"Nissan ARC, Ltd. (Japan)",JP,company,64,日産自動車,True
+2,I173469426,Tokyo Gas (Japan),JP,company,38,,False
+2,I118347220,NEC (Japan),JP,company,43,,False
+2,I1292669757,Toshiba (Japan),JP,company,54,TOTO,True
+2,I4405275580,"Daihatsu Motor Co., Ltd. (Japan)",JP,company,30,,False
+2,I4210127896,Nippon Shokubai (Japan),JP,company,29,,False
+2,I2800578655,Osaka Gas (Japan),JP,company,30,,False
+2,I4210166210,Sumitomo Electric Industries (Japan),JP,company,44,住友電気工業,True
+2,I4210103109,Noritake (Japan),JP,company,38,,False
+2,I4210121247,Samsung (Japan),JP,company,25,,False
+2,I4210102907,Asahi Kasei (Japan),JP,company,27,,False
+2,I4210132650,Denso (Japan),JP,company,45,,False
+2,I4405276694,"Honda R&D Co., Ltd. (Japan)",JP,company,50,ホンダ,True
+2,I59814707,Tosoh (Japan),JP,company,22,,False
+2,I129923673,JEOL (Japan),JP,company,22,,False
+2,I24193003,Ricoh (Japan),JP,company,19,,False
+2,I4210127379,Asahi Glass (Japan),JP,company,19,,False
+2,I4405265671,De Nora Permelec Ltd (Japan),JP,company,19,,False
+2,I924388194,Murata (Japan),JP,company,19,,False
+2,I4210114347,Rigaku (Japan),JP,company,19,,False
+2,I168192097,Mitsubishi Chemical (Japan),JP,company,20,,False
+2,I4405275813,"Toray Research Center, Inc. (Japan)",JP,company,16,東レ,True
+2,I2251713219,NTT (Japan),JP,company,20,日本電信電話,True
+2,I1335690138,Suzuki (Japan),JP,company,16,スズキ,True
+2,I4210093476,Sumitomo Metal Mining (Japan),JP,company,14,,False
+2,I4210131637,Kaneka (Japan),JP,company,26,,False
+2,I4210134490,JSR (Japan),JP,company,14,,False
+2,I4405264157,"KRI, Inc. (Japan)",JP,company,14,,False
+2,I4405275138,"TOHO GAS Co., Ltd. (Japan)",JP,company,14,,False
+2,I4210150228,Nippon Kayaku (Japan),JP,company,13,,False
+2,I1283473643,Honda (Japan),JP,company,30,ホンダ,True
+2,I2800996768,Kansai Electric Power (Japan),JP,company,21,関西電力,True
+2,I2948482138,Fujifilm (Japan),JP,company,18,,False
+2,I4405265190,"SOKEN, Inc (Japan)",JP,company,12,,False
+2,I2252096349,Fujitsu (Japan),JP,company,14,,False
+2,I4210107687,Nisshinbo Holdings (Japan),JP,company,11,,False
+2,I4210164926,Sekisui Chemical (Japan),JP,company,15,,False
+2,I4405274632,"TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd. (Japan)",JP,company,11,,False
+2,I131392684,NGK Spark Plug (Japan),JP,company,10,日本特殊陶業,True
+2,I4210099606,Mitsubishi Chemical Group Science and Technology Research Center (Japan),JP,company,10,,False
+2,I4210101228,IHI Corporation (Japan),JP,company,12,,False
+2,I4210107548,Japan Broadcasting Corporation (Japan),JP,company,11,,False
+2,I4210115317,"Toray Industries, Inc. (Japan)",JP,company,13,東レ,True
+2,I4210124878,Eneos (Japan),JP,company,10,,False
+2,I193666615,Kawasaki Heavy Industries (Japan),JP,company,15,川崎重工業,True
+2,I4210116797,GS Yuasa (Japan),JP,company,13,,False
+2,I4210125541,"Ishifuku Metal Industry Co., Ltd. (Japan)",JP,company,9,,False
+2,I4210143797,Sony (Japan),JP,company,9,,False
+2,I25222733,Showa Denko (Japan),JP,company,8,,False
+2,I4210105216,Thermo Fisher Scientific (Japan),JP,company,8,,False
+2,I4210112703,Nissan Chemical Corporation (Japan),JP,company,8,,False
+2,I4210129202,Denka (Japan),JP,company,8,,False
+2,I4210152248,Mitsui Chemicals (Japan),JP,company,8,三井化学,True
+2,I4405264947,Sharp Corporation (Japan),JP,company,28,,False
+2,I4405265545,"SPD Laboratory, Inc. (Japan)",JP,company,8,,False
+2,I4405274139,"Nihon Kagaku Sangyo Co., Ltd. (Japan)",JP,company,8,,False
+2,I4405274792,Tanaka Chemical Corporation (Japan),JP,company,8,,False
+2,I4405275551,"Giken Kogyo Co., Ltd. (Japan)",JP,company,8,,False
+2,I139235422,Sumitomo Chemical (Japan),JP,company,7,,False
+2,I4210087728,Idemitsu Kosan (Japan),JP,company,7,出光興産,True
+2,I4210125446,Ulvac (Japan),JP,company,13,トヨタ自動車,True
+2,I4210156525,Spring-8 (Japan),JP,company,7,,False
+2,I4405272234,"Yamaha Motor Co., Ltd. (Japan)",JP,company,12,,False
+2,I4405276299,"Tokai Carbon Co., Ltd. (Japan)",JP,company,7,,False
+2,I4405276485,"Sumika Chemical Analysis Service, Ltd. (Japan)",JP,company,7,,False
+2,I4405283049,thyssenkrupp nucera (Japan),JP,company,7,,False
+2,I135705104,Nippon Steel (Japan),JP,company,7,,False
+2,I173263115,Nippon Electric Glass (Japan),JP,company,6,日本電気硝子,True
+2,I186847079,Taiyo Yuden (Japan),JP,company,6,,False
+2,I2800271857,Sumco Corporation (Japan),JP,company,49,,False
+2,I4210133125,Mitsubishi Electric (Japan),JP,company,19,三菱電機,True
+2,I4210104351,Choshu Industry (Japan),JP,company,10,,False
+2,I4405264103,Namics Corporation (Japan),JP,company,10,,False
+2,I4405275793,Chiyoda Corporation (Japan),JP,company,10,,False
+2,I4405274328,TOYO Aluminium K.K. (Japan),JP,company,9,,False
+2,I4210114911,Meiji (Japan),JP,company,8,,False
+2,I4405264654,FDK Corporation (Japan),JP,company,8,,False
+2,I272507994,Inpex (Japan),JP,company,7,,False
+2,I4405274506,Toshiba Infrastructure Systems & Solutions Corporation (Japan),JP,company,7,,False
+2,I4405275156,Komatsu NTC Ltd. (Japan),JP,company,7,,False
+2,I4405264301,Solar Frontier K.K. (Japan),JP,company,6,,False
+2,I4405275282,"West Japan Engineering Consultants, Inc. (Japan)",JP,company,6,,False
+2,I4405275681,"ONO Sokki Co., Ltd. (Japan)",JP,company,6,,False
+2,I912014387,Keihin (Japan),JP,company,6,,False
+2,I4210127054,Nikken Sekkei (Japan),JP,company,5,,False
+2,I4388891902,"Showa Denko Materials Co., Ltd. (Japan)",JP,company,8,,False
+2,I4405272583,"Tohoku Electric Power Co., Inc. (Japan)",JP,company,5,,False
+2,I4405274507,Aichi Steel Corporation (Japan),JP,company,5,,False
+2,I4405274763,"Kobelco Research Institute, Inc. (Japan)",JP,company,5,,False
+2,I119530710,TEPCO (Japan),JP,company,7,,False
+2,I1282569916,Mazda Motor Corporation (Japan),JP,company,4,,False
+2,I2799551455,Japan Organization for Metals and Energy Security (Japan),JP,company,4,,False
+2,I4210114283,Kyocera (Japan),JP,company,5,,False
+2,I4210139742,Nippon Koei (Japan),JP,company,4,,False
+2,I4405264019,Inoac Corporation (Japan),JP,company,4,,False
+2,I4405274760,"Nippon Steel Engineering Co., Ltd. (Japan)",JP,company,4,,False
+2,I4405275971,"Japan Blue Energy Co., Ltd. (Japan)",JP,company,4,,False
+2,I114132059,Tokyo Electron (Japan),JP,company,3,,False
+2,I1315201533,Tokuyama (Japan),JP,company,3,,False
+2,I2799635668,Fuji Electric (Japan),JP,company,3,富士電機,True
+2,I2800897889,Ibiden (Japan),JP,company,3,イビデン,True
+2,I2801240501,Japan Steel Works (Japan),JP,company,3,,False
+2,I4210097564,JTEKT (Japan),JP,company,3,,False
+2,I4210098230,Fujikura (Japan),JP,company,3,フジクラ,True
+2,I4210098271,Aisin (Japan),JP,company,3,,False
+2,I4210099540,Fukushima Technology Centre (Japan),JP,company,3,,False
+2,I4210108878,Yokohama Rubber (Japan),JP,company,3,横浜ゴム,True
+2,I4210153176,Renesas Electronics (Japan),JP,company,3,,False
+2,I4210157453,NSK (Japan),JP,company,3,日本精工,True
+2,I4387153773,Calsonic Kansei (Japan),JP,company,3,,False
+2,I4405263054,Sony Semiconductor Solutions Corporation (Japan),JP,company,3,,False
+2,I4405265047,"NASU Denki-Tekko Co., Ltd. (Japan)",JP,company,3,,False
+2,I4405273585,"Japan Ground Water Development Co., Ltd. (Japan)",JP,company,3,,False
+2,I4405273606,"Nissin Ion Equipment Co., Ltd. (Japan)",JP,company,3,,False
+2,I4405273682,Mitsubishi Materials Techno Corporation (Japan),JP,company,3,三菱マテリアル,True
+2,I4405274966,PILLAR Corporation (Japan),JP,company,3,,False
+2,I4405276004,"SHIN Nippon AIR Technologies Co., Ltd. (Japan)",JP,company,3,,False
+2,I101979096,Meidensha (Japan),JP,company,3,明電舎,True
+2,I175360629,Kajima Corporation (Japan),JP,company,3,,False
+2,I178098764,Brother Industries (Japan),JP,company,2,,False
+2,I38674515,Kanadevia (Japan),JP,company,2,,False
+2,I4210091544,Isuzu Motors (Japan),JP,company,2,,False
+2,I4210113398,Dassault Systèmes (Japan),JP,company,2,,False
+2,I4210129977,Advanced Engineering Services (Japan),JP,company,2,,False
+2,I4210134990,Oji Holdings (Japan),JP,company,2,王子ホールディングス,True
+2,I4210137110,Yazaki (Japan),JP,company,2,,False
+2,I4405275400,Nippon Sanso Corporation (Japan),JP,company,18,,False
+2,I4210159314,Daido Steel (Japan),JP,company,8,大同特殊鋼,True
+2,I4405275046,"NTT Facilities, Inc. (Japan)",JP,company,5,NTTファシリティーズ,True
+2,I95946053,Kobe Steel (Japan),JP,company,5,,False
+2,I4405275867,"Mizuho Research & Technologies, Ltd. (Japan)",JP,company,4,,False
+2,I864419238,Mitsubishi Materials (Japan),JP,company,4,三菱マテリアル,True
+2,I4405273594,"Mitsubishi Materials Electronic Chemicals Co., Ltd. (Japan)",JP,company,3,三菱マテリアル,True
+2,I4210119303,Spiber (Japan),JP,company,2,,False
+2,I4405264027,ATTO Corporation (Japan),JP,company,2,,False
+2,I4405264674,Technova Inc. (Japan),JP,company,2,,False
+2,I4405264882,"ORC Manufacturing Co., Ltd. (Japan)",JP,company,2,,False
+2,I4405265803,Tayca Corporation (Japan),JP,company,2,,False
+2,I875722105,Chubu Electric Power (Japan),JP,company,2,中部電力,True
+2,I113974858,Mitsubishi Research Institute (Japan),JP,company,1,,False
+2,I120611246,Obayashi (Japan),JP,company,1,,False
+2,I1320697193,Canon (Japan),JP,company,1,,False
+2,I144851764,Taisei (Japan),JP,company,1,,False
+2,I164917862,J-Power (Japan),JP,company,1,,False
+2,I2801034194,Hokuriku Electric Power Company (Japan),JP,company,1,,False
+2,I4210098242,Daikin (Japan),JP,company,1,,False
+3,I4210165351,Toyota Central Research and Development Laboratories (Japan),JP,company,184,トヨタ自動車,True
+3,I4210137853,Toyota Motor Corporation (Japan),JP,company,126,トヨタ自動車,True
+3,I1283155146,Panasonic (Japan),JP,company,78,,False
+3,I4210110524,Nissan (Japan),JP,company,88,日産自動車,True
+3,I2800578655,Osaka Gas (Japan),JP,company,38,,False
+3,I924388194,Murata (Japan),JP,company,32,,False
+3,I4210103109,Noritake (Japan),JP,company,29,,False
+3,I4405264028,"Qualtec Co., Ltd. (Japan)",JP,company,27,,False
+3,I4405275670,"Nissan ARC, Ltd. (Japan)",JP,company,25,日産自動車,True
+3,I4210132650,Denso (Japan),JP,company,36,,False
+3,I4405265671,De Nora Permelec Ltd (Japan),JP,company,20,,False
+3,I4210087728,Idemitsu Kosan (Japan),JP,company,22,出光興産,True
+3,I4210102907,Asahi Kasei (Japan),JP,company,20,,False
+3,I1292669757,Toshiba (Japan),JP,company,36,TOTO,True
+3,I4210114347,Rigaku (Japan),JP,company,18,,False
+3,I65143321,Hitachi (Japan),JP,company,40,日立金属,True
+3,I129923673,JEOL (Japan),JP,company,19,,False
+3,I4405265099,ISE Chemicals Corporation (Japan),JP,company,14,,False
+3,I4405275813,"Toray Research Center, Inc. (Japan)",JP,company,13,東レ,True
+3,I4210114561,Mitsui Mining & Smelting (Japan),JP,company,12,三井金属,True
+3,I4210124878,Eneos (Japan),JP,company,18,,False
+3,I4210114283,Kyocera (Japan),JP,company,15,,False
+3,I193666615,Kawasaki Heavy Industries (Japan),JP,company,11,川崎重工業,True
+3,I25222733,Showa Denko (Japan),JP,company,13,,False
+3,I4210093476,Sumitomo Metal Mining (Japan),JP,company,10,,False
+3,I4210125541,"Ishifuku Metal Industry Co., Ltd. (Japan)",JP,company,10,,False
+3,I4388891902,"Showa Denko Materials Co., Ltd. (Japan)",JP,company,10,,False
+3,I4405275544,JFE Techno-Research Corporation (Japan),JP,company,10,,False
+3,I4405276257,Toshiba Energy Systems & Solutions Corporation (Japan),JP,company,18,,False
+3,I4405276485,"Sumika Chemical Analysis Service, Ltd. (Japan)",JP,company,10,,False
+3,I4405276694,"Honda R&D Co., Ltd. (Japan)",JP,company,21,ホンダ,True
+3,I1335690138,Suzuki (Japan),JP,company,9,スズキ,True
+3,I139235422,Sumitomo Chemical (Japan),JP,company,9,,False
+3,I168192097,Mitsubishi Chemical (Japan),JP,company,13,,False
+3,I4210086476,Ulvac-Phi (Japan),JP,company,10,,False
+3,I4405275867,"Mizuho Research & Technologies, Ltd. (Japan)",JP,company,16,,False
+3,I59814707,Tosoh (Japan),JP,company,37,,False
+3,I173469426,Tokyo Gas (Japan),JP,company,11,,False
+3,I2251713219,NTT (Japan),JP,company,11,日本電信電話,True
+3,I4210125446,Ulvac (Japan),JP,company,8,トヨタ自動車,True
+3,I4387156034,Hitachi High-Tech (Japan),JP,company,8,,False
+3,I1283473643,Honda (Japan),JP,company,20,ホンダ,True
+3,I4210121247,Samsung (Japan),JP,company,7,,False
+3,I4210127896,Nippon Shokubai (Japan),JP,company,8,,False
+3,I4210131637,Kaneka (Japan),JP,company,9,,False
+3,I4210156525,Spring-8 (Japan),JP,company,7,,False
+3,I4210161661,Zeon (Japan),JP,company,7,,False
+3,I2802429745,NGK Insulators (Japan),JP,company,6,,False
+3,I4210098242,Daikin (Japan),JP,company,8,,False
+3,I4405272583,"Tohoku Electric Power Co., Inc. (Japan)",JP,company,9,,False
+3,I70038096,Nichia Corporation (Japan),JP,company,9,,False
+3,I131392684,NGK Spark Plug (Japan),JP,company,6,日本特殊陶業,True
+3,I158139479,Horiba (Japan),JP,company,5,,False
+3,I4210101279,Sakai Chemical Industry (Japan),JP,company,5,,False
+3,I4210112703,Nissan Chemical Corporation (Japan),JP,company,5,,False
+3,I4210120159,SoftBank Group (Japan),JP,company,5,,False
+3,I4210120603,Daicel (Japan),JP,company,7,,False
+3,I4405263974,"Enomoto Co., Ltd. (Japan)",JP,company,5,,False
+3,I4405264654,FDK Corporation (Japan),JP,company,7,,False
+3,I4405264947,Sharp Corporation (Japan),JP,company,16,,False
+3,I4405265190,"SOKEN, Inc (Japan)",JP,company,5,,False
+3,I4405274632,"TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd. (Japan)",JP,company,5,,False
+3,I4405275155,Nippon Chemi-CON Corporation (Japan),JP,company,5,,False
+3,I4405275268,SoftBank Corp. (Japan),JP,company,5,,False
+3,I118347220,NEC (Japan),JP,company,8,,False
+3,I120640012,Sumitomo Rubber Industries (Japan),JP,company,4,住友ゴム工業,True
+3,I2800271857,Sumco Corporation (Japan),JP,company,14,,False
+3,I2799635668,Fuji Electric (Japan),JP,company,13,富士電機,True
+3,I119530710,TEPCO (Japan),JP,company,13,,False
+3,I4405274328,TOYO Aluminium K.K. (Japan),JP,company,7,,False
+3,I4405265028,"Geothermal Energy Research And Development Co., Ltd. (Japan)",JP,company,6,,False
+3,I4405274763,"Kobelco Research Institute, Inc. (Japan)",JP,company,6,,False
+3,I4210090379,Texas Instruments (Japan),JP,company,5,,False
+3,I4210133125,Mitsubishi Electric (Japan),JP,company,7,三菱電機,True
+3,I4210165369,Isuzu Advanced Engineering Center (Japan),JP,company,5,,False
+3,I4405264103,Namics Corporation (Japan),JP,company,5,,False
+3,I2799551455,Japan Organization for Metals and Energy Security (Japan),JP,company,5,,False
+3,I4210114911,Meiji (Japan),JP,company,4,,False
+3,I4405275793,Chiyoda Corporation (Japan),JP,company,4,,False
+3,I4405276004,"SHIN Nippon AIR Technologies Co., Ltd. (Japan)",JP,company,4,,False
+3,I122762857,Toyobo (Japan),JP,company,3,東洋紡,True
+3,I135705104,Nippon Steel (Japan),JP,company,4,,False
+3,I2801034194,Hokuriku Electric Power Company (Japan),JP,company,3,,False
+3,I4210108878,Yokohama Rubber (Japan),JP,company,3,横浜ゴム,True
+3,I4210117815,Mitsubishi Heavy Industries (Japan),JP,company,4,,False
+3,I4210139742,Nippon Koei (Japan),JP,company,3,,False
+3,I4405275019,Daiwa CAN Company (Japan),JP,company,3,,False
+3,I4405275282,"West Japan Engineering Consultants, Inc. (Japan)",JP,company,3,,False
+3,I162282272,ROHM,JP,company,2,,False
+3,I2800996768,Kansai Electric Power (Japan),JP,company,2,関西電力,True
+3,I4210096956,Yanmar (Japan),JP,company,2,,False
+3,I4210116177,AIR Water Inc. (Japan),JP,company,2,,False
+3,I4210123968,NOF Corporation (Japan),JP,company,2,,False
+3,I4210149377,Toshiba Mitsubishi-Electric Industrial Systems Corporation (Japan),JP,company,2,,False
+3,I4210152248,Mitsui Chemicals (Japan),JP,company,5,三井化学,True
+3,I4210157453,NSK (Japan),JP,company,2,日本精工,True
+3,I4210159520,Mizuho (Japan),JP,company,2,,False
+3,I4405264019,Inoac Corporation (Japan),JP,company,2,,False
+3,I4405264157,"KRI, Inc. (Japan)",JP,company,2,,False
+3,I4405265565,LIXIL Corporation (Japan),JP,company,2,LIXIL,True
+3,I4405274264,"The Furukawa Battery Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405274580,Air Liquide Laboratories (Japan),JP,company,2,,False
+3,I4405274760,"Nippon Steel Engineering Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405275156,Komatsu NTC Ltd. (Japan),JP,company,2,,False
+3,I4405275304,"Shinko Electric Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405275402,"NANO Frontier Technology Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405275828,"Daiwa House Industry Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405285632,SUMCO TECHXIV (Japan),JP,company,2,,False
+3,I4405275400,Nippon Sanso Corporation (Japan),JP,company,9,,False
+3,I4210166210,Sumitomo Electric Industries (Japan),JP,company,8,住友電気工業,True
+3,I4405264674,Technova Inc. (Japan),JP,company,3,,False
+3,I4405275046,"NTT Facilities, Inc. (Japan)",JP,company,3,NTTファシリティーズ,True
+3,I4405275208,"Kokusai Kogyo Co., Ltd. (Japan)",JP,company,3,,False
+3,I113974858,Mitsubishi Research Institute (Japan),JP,company,2,,False
+3,I164917862,J-Power (Japan),JP,company,2,,False
+3,I171818078,Nitto (Japan),JP,company,2,,False
+3,I203737432,East Japan Railway (Japan),JP,company,2,東日本旅客鉄道,True
+3,I4210101380,Mitsubishi Corporation (Japan),JP,company,2,,False
+3,I4210113398,Dassault Systèmes (Japan),JP,company,2,,False
+3,I4210157335,Furukawa Electric (Japan),JP,company,2,古河電気工業,True
+3,I4210164926,Sekisui Chemical (Japan),JP,company,2,,False
+3,I4405264882,"ORC Manufacturing Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405274195,"Japan Petroleum Exploration Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405275862,"Nakayama IRON Works, Ltd. (Japan)",JP,company,2,,False
+3,I4405276128,"Asahi Diamond Industrial Co., Ltd. (Japan)",JP,company,2,,False
+3,I4405276320,Hokuetsu Corporation (Japan),JP,company,2,,False
+3,I4405283926,LocationMind (Japan),JP,company,2,,False
+3,I48350267,Central Japan Railway (Japan),JP,company,2,,False
+3,I1315201533,Tokuyama (Japan),JP,company,1,,False
+3,I21620634,Toyo Engineering (Japan),JP,company,1,,False
+3,I272507994,Inpex (Japan),JP,company,1,,False
+3,I4210127379,Asahi Glass (Japan),JP,company,1,,False

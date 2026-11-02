@@ -1,0 +1,167 @@
+﻿topic_id,topic,domain,subfield,field,n_2006_10,n_2011_15,n_2016_25,n_total,gx_class,src
+T10361,Silicon Carbide Semiconductor Technologies,POWER,Electrical and Electronic Engineering,Engineering,132,197,265,594,enabling,claude_draft
+T10099,GaN-based semiconductor devices and materials,POWER,Condensed Matter Physics,Physics and Astronomy,221,106,262,589,enabling,claude_draft
+T10018,Advancements in Battery Materials,BATTERY,Electrical and Electronic Engineering,Engineering,62,192,199,453,core,claude_draft
+T10409,Fuel Cells and Related Materials,FUELCELL,Electrical and Electronic Engineering,Engineering,97,120,185,402,core,claude_draft
+T10281,Advanced Battery Materials and Technologies,BATTERY,Electrical and Electronic Engineering,Engineering,21,110,270,401,core,claude_draft
+T10121,Building Energy and Comfort Optimization,THERMAL,Building and Construction,Engineering,55,132,157,344,enabling,claude_draft
+T10117,Advanced Combustion Engine Technologies,VEHICLE,Fluid Flow and Transfer Processes,Chemical Engineering,122,97,122,341,legacy,claude_draft
+T10192,Catalytic Processes in Materials Science,MATERIAL,Materials Chemistry,Materials Science,125,79,109,313,other,claude_draft
+T10389,Polymer crystallization and properties,MATERIAL,Polymers and Plastics,Materials Science,94,81,136,311,non_gx,claude_draft
+T10278,Electric Motor Design and Analysis,VEHICLE,Electrical and Electronic Engineering,Engineering,50,57,182,289,enabling,claude_draft
+T10030,Electrocatalysts for Energy Conversion,FUELCELL,"Renewable Energy, Sustainability and the Environment",Energy,31,88,144,263,core,claude_draft
+T10311,Advancements in Solid Oxide Fuel Cells,FUELCELL,Materials Chemistry,Materials Science,95,72,88,255,core,claude_draft
+T10511,High voltage insulation and dielectric phenomena,POWER,Materials Chemistry,Materials Science,70,67,118,255,enabling,claude_draft
+T10805,Vehicle Dynamics and Control Systems,VEHICLE,Automotive Engineering,Engineering,66,74,102,242,other,claude_draft
+T10083,Graphene research and applications,MATERIAL,Materials Chemistry,Materials Science,23,83,92,198,non_gx,claude_draft
+T10219,Mechanical Behavior of Composites,MATERIAL,Mechanics of Materials,Engineering,38,41,111,190,non_gx,claude_draft
+T10811,Hydrogen Storage and Materials,FUELCELL,Materials Chemistry,Materials Science,81,44,36,161,core,claude_draft
+T10197,Membrane Separation Technologies,MATERIAL,Water Science and Technology,Environmental Science,27,41,92,160,other,claude_draft
+T10074,Carbon Nanotubes in Composites,MATERIAL,Materials Chemistry,Materials Science,79,31,48,158,non_gx,claude_draft
+T10808,Electric and Hybrid Vehicle Technologies,VEHICLE,Automotive Engineering,Engineering,40,35,78,153,core,claude_draft
+T10735,Mesoporous Materials and Catalysis,MATERIAL,Materials Chemistry,Materials Science,74,35,33,142,other,claude_draft
+T10305,Power System Optimization and Stability,POWER,Electrical and Electronic Engineering,Engineering,48,48,42,138,enabling,claude_draft
+T10078,Advanced Photocatalysis Techniques,MATERIAL,"Renewable Energy, Sustainability and the Environment",Energy,13,29,94,136,other,claude_draft
+T10850,Heat Transfer and Boiling Studies,THERMAL,Mechanical Engineering,Engineering,39,34,57,130,other,claude_draft
+T10175,Advanced DC-DC Converters,POWER,Electrical and Electronic Engineering,Engineering,22,34,74,130,enabling,claude_draft
+T10440,Advanced Thermoelectric Materials and Devices,THERMAL,Materials Chemistry,Materials Science,38,27,63,128,enabling,claude_draft
+T10024,TiO2 Photocatalysis and Solar Cells,SOLAR,"Renewable Energy, Sustainability and the Environment",Energy,65,34,29,128,core,claude_draft
+T10663,Advanced Battery Technologies Research,BATTERY,Automotive Engineering,Engineering,36,32,55,123,core,claude_draft
+T12759,Vehicle Noise and Vibration Control,VEHICLE,Automotive Engineering,Engineering,29,39,54,122,non_gx,claude_draft
+T11664,Fiber-reinforced polymer composites,MATERIAL,Mechanical Engineering,Engineering,16,24,75,115,non_gx,claude_draft
+T14454,Polymer Science and Applications,MATERIAL,Mechanical Engineering,Engineering,32,32,50,114,non_gx,claude_draft
+T10045,Organic Electronics and Photovoltaics,SOLAR,Electrical and Electronic Engineering,Engineering,39,44,18,101,core,claude_draft
+T10132,Advanced ceramic materials synthesis,MATERIAL,Ceramics and Composites,Materials Science,55,15,30,100,non_gx,claude_draft
+T10611,Organic Light-Emitting Diodes Research,LIGHT,Electrical and Electronic Engineering,Engineering,49,24,27,100,other,claude_draft
+T10610,Advanced Cellulose Research Studies,MATERIAL,Biomaterials,Materials Science,1,16,82,99,non_gx,claude_draft
+T11529,Refrigeration and Air Conditioning Technologies,THERMAL,Mechanical Engineering,Engineering,29,29,34,92,enabling,claude_draft
+T10223,Microgrid Control and Optimization,POWER,Control and Systems Engineering,Engineering,28,29,35,92,enabling,claude_draft
+T11690,Advanced battery technologies research,BATTERY,Electrical and Electronic Engineering,Engineering,2,40,48,90,core,claude_draft
+T10624,Silicon and Solar Cell Technologies,SOLAR,Electrical and Electronic Engineering,Engineering,21,31,32,84,core,claude_draft
+T11249,Wireless Power Transfer Systems,POWER,Electrical and Electronic Engineering,Engineering,0,23,60,83,enabling,claude_draft
+T10092,Organometallic Complex Synthesis and Catalysis,MATERIAL,Organic Chemistry,Chemistry,35,24,20,79,non_gx,claude_draft
+T14444,Power Systems and Renewable Energy,POWER,Energy Engineering and Power Technology,Energy,28,16,33,77,enabling,claude_draft
+T10228,Multilevel Inverters and Converters,POWER,Electrical and Electronic Engineering,Engineering,32,7,37,76,enabling,claude_draft
+T10424,Electric Power System Optimization,POWER,Electrical and Electronic Engineering,Engineering,19,26,29,74,enabling,claude_draft
+T10097,Luminescence Properties of Advanced Materials,LIGHT,Materials Chemistry,Materials Science,29,10,32,71,other,claude_draft
+T10501,Polymer Nanocomposites and Properties,MATERIAL,Polymers and Plastics,Materials Science,30,19,20,69,non_gx,claude_draft
+T10661,biodegradable polymer synthesis and properties,MATERIAL,Biomaterials,Materials Science,21,23,25,69,other,claude_draft
+T12309,solar cell performance optimization,SOLAR,Electrical and Electronic Engineering,Engineering,11,24,30,65,core,claude_draft
+T10495,Catalysts for Methane Reforming,MATERIAL,Catalysis,Chemical Engineering,33,12,19,64,core,claude_draft
+T10998,Heat Transfer and Optimization,THERMAL,Mechanical Engineering,Engineering,19,19,25,63,other,claude_draft
+T11784,CO2 Reduction Techniques and Catalysts,MATERIAL,"Renewable Energy, Sustainability and the Environment",Energy,2,8,53,63,core,claude_draft
+T11277,Thermal properties of materials,THERMAL,Materials Chemistry,Materials Science,18,10,34,62,non_gx,claude_draft
+T13990,Engine and Fuel Emissions,VEHICLE,Automotive Engineering,Engineering,14,21,25,60,legacy,claude_draft
+T10504,Sensorless Control of Electric Motors,VEHICLE,Electrical and Electronic Engineering,Engineering,21,14,24,59,enabling,claude_draft
+T10603,Smart Grid Energy Management,POWER,Electrical and Electronic Engineering,Engineering,5,21,33,59,enabling,claude_draft
+T12084,Synthesis and properties of polymers,MATERIAL,Polymers and Plastics,Materials Science,17,16,25,58,non_gx,claude_draft
+T10768,Electric Vehicles and Infrastructure,VEHICLE,Electrical and Electronic Engineering,Engineering,2,12,42,56,core,claude_draft
+T11341,Boron and Carbon Nanomaterials Research,MATERIAL,Materials Chemistry,Materials Science,19,22,14,55,non_gx,claude_draft
+T14502,High-Voltage Power Transmission Systems,POWER,Electrical and Electronic Engineering,Engineering,14,19,19,52,enabling,claude_draft
+T10405,Advanced Polymer Synthesis and Characterization,MATERIAL,Organic Chemistry,Chemistry,24,9,16,49,non_gx,claude_draft
+T12139,Advanced Thermodynamic Systems and Engines,VEHICLE,Mechanical Engineering,Engineering,13,22,14,49,legacy,claude_draft
+T10179,Supercapacitor Materials and Fabrication,BATTERY,"Electronic, Optical and Magnetic Materials",Materials Science,10,11,28,49,core,claude_draft
+T11382,Fluid Dynamics and Heat Transfer,THERMAL,Computational Mechanics,Engineering,19,5,22,46,non_gx,claude_draft
+T11276,Solar Radiation and Photovoltaics,SOLAR,Artificial Intelligence,Computer Science,6,19,21,46,core,claude_draft
+T10407,Lipid Membrane Structure and Behavior,MATERIAL,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",16,13,17,46,non_gx,claude_draft
+T10740,Wind Turbine Control Systems,THERMAL,Electrical and Electronic Engineering,Engineering,33,9,2,44,core,claude_draft
+T10972,Power Systems Fault Detection,POWER,Control and Systems Engineering,Engineering,16,5,22,43,enabling,claude_draft
+T10810,Polymer composites and self-healing,MATERIAL,Polymers and Plastics,Materials Science,3,5,35,43,non_gx,claude_draft
+T10247,Perovskite Materials and Applications,SOLAR,Electrical and Electronic Engineering,Engineering,0,0,42,42,core,claude_draft
+T11471,Block Copolymer Self-Assembly,MATERIAL,Materials Chemistry,Materials Science,16,13,13,42,non_gx,claude_draft
+T10468,Photovoltaic System Optimization Techniques,SOLAR,"Renewable Energy, Sustainability and the Environment",Energy,19,5,16,40,core,claude_draft
+T11225,Geothermal Energy Systems and Applications,THERMAL,"Renewable Energy, Sustainability and the Environment",Energy,11,21,7,39,core,claude_draft
+T11362,Membrane Separation and Gas Transport,MATERIAL,Mechanical Engineering,Engineering,10,15,14,39,other,claude_draft
+T10353,Zeolite Catalysis and Synthesis,MATERIAL,Inorganic Chemistry,Chemistry,13,10,15,38,non_gx,claude_draft
+T11774,Adsorption and Cooling Systems,THERMAL,Mechanical Engineering,Engineering,8,3,27,38,enabling,claude_draft
+T10859,Polymer Surface Interaction Studies,MATERIAL,"Surfaces, Coatings and Films",Materials Science,7,10,21,38,non_gx,claude_draft
+T10660,Conducting polymers and applications,MATERIAL,Polymers and Plastics,Materials Science,23,9,6,38,other,claude_draft
+T11091,Extraction and Separation Processes,VEHICLE,Mechanical Engineering,Engineering,10,4,23,37,non_gx,claude_draft
+T10321,Quantum Dots Synthesis And Properties,LIGHT,Materials Chemistry,Materials Science,1,8,27,36,other,claude_draft
+T10707,Cellular and Composite Structures,MATERIAL,Mechanical Engineering,Engineering,14,4,17,35,non_gx,claude_draft
+T11558,Composite Material Mechanics,MATERIAL,Mechanics of Materials,Engineering,8,6,19,33,non_gx,rule_provisional
+T10404,Enzyme Catalysis and Immobilization,MATERIAL,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",12,5,16,33,non_gx,rule_provisional
+T10553,Combustion and flame dynamics,THERMAL,Computational Mechanics,Engineering,21,1,10,32,legacy,rule_provisional
+T12442,Thermal Radiation and Cooling Technologies,THERMAL,Civil and Structural Engineering,Engineering,1,8,21,30,enabling,rule_provisional
+T13093,Electric Power Systems and Control,POWER,Electrical and Electronic Engineering,Engineering,10,4,16,30,enabling,rule_provisional
+T12560,Nuclear Engineering Thermal-Hydraulics,THERMAL,Aerospace Engineering,Engineering,4,19,6,29,other,claude_patch
+T10131,Gold and Silver Nanoparticles Synthesis and Applications,MATERIAL,"Electronic, Optical and Magnetic Materials",Materials Science,9,9,10,28,non_gx,claude_patch
+T11169,Silicon Nanostructures and Photoluminescence,LIGHT,Materials Chemistry,Materials Science,7,15,5,27,other,claude_patch
+T12099,Advanced materials and composites,MATERIAL,Mechanical Engineering,Engineering,10,4,12,26,non_gx,rule_provisional
+T12095,Vehicle emissions and performance,VEHICLE,Automotive Engineering,Engineering,4,11,10,25,legacy,claude_patch
+T10063,Nanoparticle-Based Drug Delivery,MATERIAL,Biomaterials,Materials Science,2,7,16,25,non_gx,claude_patch
+T10221,Composite Structure Analysis and Optimization,MATERIAL,Mechanics of Materials,Engineering,7,8,10,25,non_gx,rule_provisional
+T12451,Smart Grid and Power Systems,POWER,Electrical and Electronic Engineering,Engineering,5,9,10,24,enabling,rule_provisional
+T13171,Polymer Science and PVC,MATERIAL,Polymers and Plastics,Materials Science,9,3,12,24,non_gx,rule_provisional
+T12561,bioluminescence and chemiluminescence research,LIGHT,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",5,6,11,22,non_gx,claude_patch
+T10717,Aluminum Alloys Composites Properties,MATERIAL,Mechanical Engineering,Engineering,8,7,7,22,non_gx,rule_provisional
+T11593,Carbon dioxide utilization in catalysis,MATERIAL,Process Chemistry and Technology,Chemical Engineering,7,0,12,19,core,rule_provisional
+T11825,Catalysis and Oxidation Reactions,MATERIAL,Catalysis,Chemical Engineering,4,1,14,19,other,claude_patch
+T12063,Heat and Mass Transfer in Porous Media,THERMAL,Computational Mechanics,Engineering,5,3,11,19,other,claude_patch
+T13584,Coal Combustion and Slurry Processing,THERMAL,Mechanical Engineering,Engineering,9,1,8,18,legacy,rule_provisional
+T10766,Urban Heat Island Mitigation,THERMAL,Environmental Engineering,Environmental Science,11,2,4,17,other,claude_patch
+T10079,Nanoparticles: synthesis and applications,MATERIAL,Materials Chemistry,Materials Science,1,6,10,17,non_gx,claude_patch
+T11941,Power System Reliability and Maintenance,POWER,"Safety, Risk, Reliability and Quality",Engineering,2,5,10,17,enabling,rule_provisional
+T12405,Characterization and Applications of Magnetic Nanoparticles,MATERIAL,Biomedical Engineering,Engineering,9,1,6,16,non_gx,claude_patch
+T12875,Thermal Expansion and Ionic Conductivity,THERMAL,Materials Chemistry,Materials Science,6,2,7,15,other,claude_patch
+T13183,Islanding Detection in Power Systems,POWER,Electrical and Electronic Engineering,Engineering,11,3,1,15,enabling,rule_provisional
+T12285,Surface Chemistry and Catalysis,MATERIAL,Biomedical Engineering,Engineering,3,5,7,15,other,claude_patch
+T12570,Photopolymerization techniques and applications,MATERIAL,Organic Chemistry,Chemistry,6,5,4,15,non_gx,rule_provisional
+T11945,Heat Transfer Mechanisms,THERMAL,Mechanical Engineering,Engineering,2,10,2,14,other,claude_patch
+T11192,Underwater Vehicles and Communication Systems,VEHICLE,Ocean Engineering,Engineering,4,1,9,14,non_gx,claude_patch
+T13251,Electrical and Thermal Properties of Materials,THERMAL,Electrical and Electronic Engineering,Engineering,7,2,5,14,unreviewed,rule_provisional
+T10513,Natural Fiber Reinforced Composites,MATERIAL,Polymers and Plastics,Materials Science,7,3,3,13,non_gx,rule_provisional
+T11231,Microbial Fuel Cells and Bioremediation,FUELCELL,Environmental Engineering,Environmental Science,3,1,9,13,core,rule_provisional
+T12186,Phosphorus and nutrient management,LIGHT,Waste Management and Disposal,Environmental Science,1,2,10,13,unreviewed,rule_provisional
+T12838,Photovoltaic Systems and Sustainability,SOLAR,Environmental Engineering,Environmental Science,2,2,8,12,core,rule_provisional
+T11978,Soil Mechanics and Vehicle Dynamics,VEHICLE,Civil and Structural Engineering,Engineering,6,2,4,12,unreviewed,rule_provisional
+T12277,Frequency Control in Power Systems,POWER,Electrical and Electronic Engineering,Engineering,1,2,9,12,enabling,rule_provisional
+T12628,Polymer Foaming and Composites,MATERIAL,Polymers and Plastics,Materials Science,5,0,6,11,non_gx,rule_provisional
+T11240,Luminescence and Fluorescent Materials,LIGHT,Materials Chemistry,Materials Science,2,2,7,11,unreviewed,rule_provisional
+T11009,Catalysis for Biomass Conversion,MATERIAL,Biomedical Engineering,Engineering,0,1,10,11,core,rule_provisional
+T14276,Power Systems and Technologies,POWER,Electrical and Electronic Engineering,Engineering,1,2,8,11,enabling,rule_provisional
+T10104,Nanofluid Flow and Heat Transfer,THERMAL,Biomedical Engineering,Engineering,0,0,10,10,unreviewed,rule_provisional
+T10568,Thermodynamic and Exergetic Analyses of Power and Cooling Systems,THERMAL,Mechanical Engineering,Engineering,2,3,5,10,enabling,rule_provisional
+T10567,Vehicle Routing Optimization Methods,VEHICLE,Industrial and Manufacturing Engineering,Engineering,3,0,7,10,unreviewed,rule_provisional
+T12898,Induction Heating and Inverter Technology,THERMAL,Mechanical Engineering,Engineering,2,2,6,10,enabling,rule_provisional
+T13232,Laser-Ablation Synthesis of Nanoparticles,MATERIAL,Biomedical Engineering,Engineering,4,3,3,10,non_gx,rule_provisional
+T10905,Solar Thermal and Photovoltaic Systems,SOLAR,"Renewable Energy, Sustainability and the Environment",Energy,0,2,8,10,core,rule_provisional
+T11351,Catalysis and Hydrodesulfurization Studies,MATERIAL,Mechanical Engineering,Engineering,6,3,1,10,unreviewed,rule_provisional
+T10488,Nanocomposite Films for Food Packaging,MATERIAL,Biomaterials,Materials Science,3,2,4,9,non_gx,rule_provisional
+T13249,Dielectric properties of ceramics,MATERIAL,Materials Chemistry,Materials Science,7,2,0,9,non_gx,rule_provisional
+T14303,Polymer Synthesis and Characterization,MATERIAL,Polymers and Plastics,Materials Science,3,2,4,9,non_gx,rule_provisional
+T11619,Combustion and Detonation Processes,THERMAL,Aerospace Engineering,Engineering,4,2,3,9,legacy,rule_provisional
+T12155,Microwave Dielectric Ceramics Synthesis,MATERIAL,Electrical and Electronic Engineering,Engineering,6,2,0,8,non_gx,rule_provisional
+T13858,Technical Engine Diagnostics and Monitoring,VEHICLE,Automotive Engineering,Engineering,2,4,2,8,legacy,rule_provisional
+T12897,Structural Analysis of Composite Materials,MATERIAL,Mechanical Engineering,Engineering,1,3,4,8,non_gx,rule_provisional
+T10013,Asymmetric Synthesis and Catalysis,MATERIAL,Organic Chemistry,Chemistry,1,1,5,7,unreviewed,rule_provisional
+T11342,Carbon and Quantum Dots Applications,LIGHT,Materials Chemistry,Materials Science,0,2,5,7,unreviewed,rule_provisional
+T13312,Mechanical and Thermal Properties Analysis,THERMAL,Mechanical Engineering,Engineering,3,1,2,6,unreviewed,rule_provisional
+T10917,Smart Grid Security and Resilience,POWER,Control and Systems Engineering,Engineering,1,2,3,6,enabling,rule_provisional
+T10934,Heat shock proteins research,THERMAL,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",3,1,2,6,non_gx,rule_provisional
+T12416,Polymer Nanocomposite Synthesis and Irradiation,MATERIAL,Polymers and Plastics,Materials Science,4,0,2,6,non_gx,rule_provisional
+T12105,Hygrothermal properties of building materials,THERMAL,Building and Construction,Engineering,2,3,1,6,unreviewed,rule_provisional
+T12271,Renewable energy and sustainable power systems,POWER,"Renewable Energy, Sustainability and the Environment",Energy,2,3,1,6,enabling,rule_provisional
+T13116,Heat Transfer and Numerical Methods,THERMAL,Computational Mechanics,Engineering,3,2,0,5,unreviewed,rule_provisional
+T12195,Aerogels and thermal insulation,THERMAL,Spectroscopy,Chemistry,0,4,1,5,enabling,rule_provisional
+T11281,Asymmetric Hydrogenation and Catalysis,MATERIAL,Inorganic Chemistry,Chemistry,3,1,1,5,core,rule_provisional
+T10251,Solar and Space Plasma Dynamics,SOLAR,Astronomy and Astrophysics,Physics and Astronomy,4,0,0,4,core,rule_provisional
+T12567,Heat transfer and supercritical fluids,THERMAL,Computational Mechanics,Engineering,0,2,2,4,unreviewed,rule_provisional
+T11073,Metal Extraction and Bioleaching,VEHICLE,Biomedical Engineering,Engineering,0,1,3,4,unreviewed,rule_provisional
+T11686,Dendrimers and Hyperbranched Polymers,MATERIAL,Polymers and Plastics,Materials Science,2,1,1,4,non_gx,rule_provisional
+T12202,nanoparticles nucleation surface interactions,MATERIAL,Atmospheric Science,Earth and Planetary Sciences,1,2,1,4,unreviewed,rule_provisional
+T12804,Thermal Analysis in Power Transmission,VEHICLE,Control and Systems Engineering,Engineering,0,1,3,4,enabling,rule_provisional
+T12358,Thermal and Kinetic Analysis,THERMAL,Materials Chemistry,Materials Science,1,1,2,4,unreviewed,rule_provisional
+T12085,Collagen: Extraction and Characterization,VEHICLE,Biomaterials,Materials Science,1,0,2,3,unreviewed,rule_provisional
+T14285,Biopolymer Synthesis and Applications,MATERIAL,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",0,3,0,3,non_gx,rule_provisional
+T12304,Radiative Heat Transfer Studies,THERMAL,Computational Mechanics,Engineering,3,0,0,3,unreviewed,rule_provisional
+T13298,Solar Energy Systems and Technologies,SOLAR,Mechanical Engineering,Engineering,0,3,0,3,core,rule_provisional
+T12642,Polymer-Based Agricultural Enhancements,MATERIAL,Biomedical Engineering,Engineering,0,0,2,2,non_gx,rule_provisional
+T13282,Automated Road and Building Extraction,VEHICLE,Ocean Engineering,Engineering,0,0,2,2,unreviewed,rule_provisional
+T12406,IoT and GPS-based Vehicle Safety Systems,VEHICLE,Mechanical Engineering,Engineering,0,2,0,2,unreviewed,rule_provisional
+T12074,Membrane-based Ion Separation Techniques,MATERIAL,Biomedical Engineering,Engineering,0,0,2,2,unreviewed,rule_provisional
+T12008,Solar-Powered Water Purification Methods,SOLAR,"Renewable Energy, Sustainability and the Environment",Energy,0,0,2,2,core,rule_provisional
+T12707,Vehicle License Plate Recognition,VEHICLE,Media Technology,Engineering,2,0,0,2,unreviewed,rule_provisional
+T10806,Energetic Materials and Combustion,THERMAL,Mechanics of Materials,Engineering,0,1,0,1,legacy,rule_provisional
+T11748,Organophosphorus compounds synthesis,LIGHT,Organic Chemistry,Chemistry,1,0,0,1,unreviewed,rule_provisional
+T12627,Graphene and Nanomaterials Applications,MATERIAL,Biomedical Engineering,Engineering,1,0,0,1,non_gx,rule_provisional

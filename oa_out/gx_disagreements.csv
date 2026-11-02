@@ -1,0 +1,19 @@
+﻿topic,gx_class,src,n_total,rater,memo,mine
+Organometallic Complex Synthesis and Catalysis,non_gx,claude_draft,79,other,,non_gx
+Catalysts for Methane Reforming,core,claude_draft,64,other,수소 생산과 관련되지만 메탄 개질은 화석 기반일 수 있어 저탄소 수소인지 불명확함.,core
+Thermal properties of materials,non_gx,claude_draft,62,other,에너지 효율 소재일 수도 있으나 GX 목적이 명시되지 않은 일반 물성 연구로 판단하기 어려움.,non_gx
+Fluid Dynamics and Heat Transfer,non_gx,claude_draft,46,other,,non_gx
+Zeolite Catalysis and Synthesis,non_gx,claude_draft,38,other,,non_gx
+Adsorption and Cooling Systems,enabling,claude_draft,38,other,,enabling
+Soil Mechanics and Vehicle Dynamics,unreviewed,rule_provisional,12,non_gx,,other
+Vehicle Routing Optimization Methods,unreviewed,rule_provisional,10,non_gx,,other
+Catalysis and Hydrodesulfurization Studies,unreviewed,rule_provisional,10,legacy,,other
+Carbon and Quantum Dots Applications,unreviewed,rule_provisional,7,non_gx,,other
+Hygrothermal properties of building materials,unreviewed,rule_provisional,6,enabling,,other
+Renewable energy and sustainable power systems,enabling,rule_provisional,6,core,재생에너지 및 지속가능 전력 시스템을 명시하므로 전환을 지원하는 기술(enabling).,enabling
+Asymmetric Hydrogenation and Catalysis,core,rule_provisional,5,other,화학합성의 수소화 반응으로 보이며 에너지 전환·수소 에너지 기술과는 구분됨.,core
+Solar and Space Plasma Dynamics,core,rule_provisional,4,other,태양 관련 주제이지만 태양광 발전·에너지 생산보다는 우주 플라스마 연구로 보임.,core
+Collagen: Extraction and Characterization,unreviewed,rule_provisional,3,non_gx,,other
+Automated Road and Building Extraction,unreviewed,rule_provisional,2,non_gx,,other
+IoT and GPS-based Vehicle Safety Systems,unreviewed,rule_provisional,2,non_gx,,other
+Vehicle License Plate Recognition,unreviewed,rule_provisional,2,non_gx,,other

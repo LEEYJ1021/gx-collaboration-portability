@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.bak
+*.pkl
+.env
+oa_out/cache/
+oa_out/works_raw.jsonl

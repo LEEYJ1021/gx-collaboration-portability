@@ -1,0 +1,95 @@
+{
+  "confirmatory_hypotheses": {
+    "H5r": {
+      "also_report": "FE regression version as sensitivity; same with external_old",
+      "criterion": "supported if estimate < 0 and 95% CI excludes 0 (Holm over 4 confirmatory tests, alpha=0.05)",
+      "estimand": "delta_fu(holdout_new) - delta_fu(cohort), paper-weighted, firm-cluster bootstrap 95% CI (B=5000, seed=20261101)",
+      "question": "Does the cohort-vs-holdout divergence in delta_fu replicate in the NEW holdout?"
+    },
+    "P1": {
+      "criterion": "supported if IRR > 1 and 95% CI excludes 0",
+      "lag_variants": "next block (primary); two blocks ahead (secondary, descriptive)",
+      "model": "negative binomial; outcome = next-block GX patent applications for firm x GX field; regressor = number (or share) of new-partner entry papers in current block; firm FE, field x block FE; cluster by firm",
+      "question": "Does new-partner entry precede more technology output?",
+      "sample": "cohort (existing patent data) + patent-matched external firms from S1"
+    },
+    "P3": {
+      "criterion": "supported if relative reduction >= 2% and 95% CI excludes 0",
+      "design": "train on cohort + external_old; evaluate on holdout_new; baseline = past papers + past patents; augmented = baseline + (new-partner share, foreign-univ share, recruitment rate)",
+      "metric": "relative reduction in out-of-sample Poisson deviance (augmented vs baseline); firm-cluster bootstrap CI",
+      "question": "Do collaboration indicators improve out-of-sample prediction of next-block GX patent activity beyond past papers and patents?"
+    },
+    "S1": {
+      "criterion": "selection account supported if estimate > 0 and CI excludes 0; if CI includes 0 and |estimate| < 5 pp, reported as 'no evidence patent holding explains divergence' (no equivalence claim)",
+      "estimand": "Among external_old + holdout_new: delta_fu(patent_holder_external) - delta_fu(non_holder_external), firm-cluster bootstrap CI",
+      "minimum_n": "report n firms per cell; if patent holders in external <8, S1 labelled underpowered BEFORE interpretation",
+      "question": "Does patent holding (selection criterion) explain the divergence?"
+    }
+  },
+  "data_access_log_rule": "code35b logs retrieval date, API parameters and record counts; holdout_new outcomes are not inspected before this file is hashed",
+  "exploratory_registered": [
+    "P2 foreign-university co-authorship technology premium (FWCI / patent citation), by sample",
+    "S2 census continuous exposure regression",
+    "S3 selection model / IPW / CEM and sensitivity bounds",
+    "S4 cohort extension with missing large applicants",
+    "Theory frames: absorptive capacity interaction, exploration-exploitation lag structure"
+  ],
+  "frozen_at_utc": "2026-11-01T12:18:27+00:00",
+  "id": "PREREG_v2",
+  "multiplicity": {
+    "alpha": 0.05,
+    "family": [
+      "H5r",
+      "S1",
+      "P1",
+      "P3"
+    ],
+    "method": "Holm"
+  },
+  "periods": {
+    "baseline_block": "B1",
+    "blocks": {
+      "B1": [
+        2006,
+        2010
+      ],
+      "B2": [
+        2011,
+        2015
+      ],
+      "B3": [
+        2016,
+        2020
+      ],
+      "B4": [
+        2021,
+        2024
+      ]
+    },
+    "end_block": "B4",
+    "note": "[CONFIRM] must match existing block definition (incl. 4-year last block rescaling)"
+  },
+  "reporting_rules": [
+    "All non-confirmatory analyses labelled exploratory and kept in a model ledger with BH-adjusted p-values",
+    "Null results of confirmatory tests are reported as is",
+    "The words 'blind confirmation' and 'independent validation' are not used",
+    "Any deviation from this document is logged in deviations.md with date and reason"
+  ],
+  "samples": {
+    "cohort": "GX-patent cohort (66 firms, existing frame); patents published 2006-2015 by JPO GX search formula",
+    "external_old": "External ranks 1-80 (old external 1-40 + old holdout 41-80), used for exploration/training and S1",
+    "frame_rule_note": "[CONFIRM] ranks are produced by code35b 'frames' stage; manual exclusions (e.g. non-corporate, sector rules from code26) listed in exclusion_ids.csv BEFORE viewing any outcome",
+    "holdout_new": "External ranks 81-120 by the same listing rule as code26 (window works count 2006-2024, same exclusions); never analysed before this PREREG"
+  },
+  "status": "FROZEN",
+  "supersedes_note": "Old holdout (external ranks 41-80) is demoted to exploration/training sample. PREREG_holdout_v1 hash discrepancy (af3e6882741d35c2 vs 034a1746b912...) is not relied upon.",
+  "title": "Selection, technology linkage and predictive validity of collaboration signals in Japanese corporate science (GX)",
+  "variables": {
+    "delta_fu": "foreign_univ_share(end_block) - foreign_univ_share(baseline_block), in percentage points",
+    "foreign_univ_share": "share of a firm's papers in block with >=1 author affiliated with a university (OpenAlex type=education) located outside Japan; paper-weighted pooled over firms",
+    "fwci": "OpenAlex fwci as retrieved by code35b (retrieval date logged)",
+    "new_partner_entry": "paper enters a firm-subfield cell not present in prior block AND includes a partner institution new to the firm (definition identical to cohort code)",
+    "patent_holder_external": "external firm with >=10 GX patents (JPO GX search formula, published 2006-2015), same threshold as cohort",
+    "tech_outcome": "firm x GX-field x next-block patent applications (count) and forward citations (patent DB, source logged)"
+  }
+}

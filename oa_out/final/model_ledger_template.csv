@@ -1,0 +1,6 @@
+﻿군,내용,고정 파일,보정,추정 수(직접 기입),p값 파일(직접 기입)
+확증,H1~H5 보류 사전등록,PREREG_holdout_v1,Holm(5),,
+탐색,"code23b~28 군집, 업종, 측정",PREREG_*,BH,,
+탐색,"code29 용량-반응, DiD, 토픽, 네트워크",PREREG_paradigm_v1,BH,,
+탐색,"code30~33 이론 시험, 기준선, 소속","PREREG_theory_*, B_*",BH,,
+탐색,code34 M3 FWCI,PREREG_final_v1,BH,,
